@@ -214,7 +214,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T03:41:40Z",
+            "last_commit": "2026-08-13T07:47:39Z",
             "owner": "kubernetes",
             "repo": "kops",
             "stars": 16662
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-12T08:10:21Z",
             "owner": "vitodeploy",
             "repo": "vito",
-            "stars": 3184
+            "stars": 3185
           }
         },
         {
@@ -298,7 +298,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T13:47:15Z",
+            "last_commit": "2026-08-13T11:08:15Z",
             "owner": "kubermatic",
             "repo": "kubeone",
             "stars": 1522
@@ -312,7 +312,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T11:17:14Z",
+            "last_commit": "2026-08-13T11:18:04Z",
             "owner": "syself",
             "repo": "cluster-api-provider-hetzner",
             "stars": 1129
@@ -354,7 +354,7 @@
           "repo_info": {
             "archived": false,
             "language": "HCL",
-            "last_commit": "2026-08-12T14:05:41Z",
+            "last_commit": "2026-08-13T09:51:12Z",
             "owner": "hcloud-talos",
             "repo": "terraform-hcloud-talos",
             "stars": 352
@@ -724,10 +724,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T13:47:39Z",
+            "last_commit": "2026-08-13T09:38:50Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65722
+            "stars": 65725
           }
         },
         {
@@ -1362,7 +1362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:21:49.550Z",
+    "last_updated": "2026-08-13T11:23:29.528Z",
     "original_repository": "hetznercloud/awesome-hcloud",
     "original_repository_sha": "30813b307c5e88ac6bc6c570063539566f8a31c4",
     "enhanced_repository": "enhansome/enhansome-hcloud",
