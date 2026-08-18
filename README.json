@@ -50,10 +50,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T09:49:57Z",
+            "last_commit": "2026-08-18T04:52:05Z",
             "owner": "hetznercloud",
             "repo": "hcloud-go",
-            "stars": 507
+            "stars": 508
           }
         },
         {
@@ -194,7 +194,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-11T08:21:48Z",
+            "last_commit": "2026-08-17T20:13:59Z",
             "owner": "floriandejonckheere",
             "repo": "hcloud",
             "stars": 13
@@ -214,10 +214,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T10:08:38Z",
+            "last_commit": "2026-08-18T10:53:09Z",
             "owner": "kubernetes",
             "repo": "kops",
-            "stars": 16661
+            "stars": 16662
           }
         },
         {
@@ -259,7 +259,7 @@
             "last_commit": "2026-06-24T12:27:23Z",
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3662
+            "stars": 3663
           }
         },
         {
@@ -270,10 +270,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T08:10:21Z",
+            "last_commit": "2026-08-17T22:23:11Z",
             "owner": "vitodeploy",
             "repo": "vito",
-            "stars": 3187
+            "stars": 3191
           }
         },
         {
@@ -284,7 +284,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T08:54:41Z",
+            "last_commit": "2026-08-18T01:34:24Z",
             "owner": "hetznercloud",
             "repo": "cli",
             "stars": 1779
@@ -298,10 +298,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T09:38:23Z",
+            "last_commit": "2026-08-18T08:32:26Z",
             "owner": "kubermatic",
             "repo": "kubeone",
-            "stars": 1523
+            "stars": 1524
           }
         },
         {
@@ -312,7 +312,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T10:34:20Z",
+            "last_commit": "2026-08-17T12:48:37Z",
             "owner": "syself",
             "repo": "cluster-api-provider-hetzner",
             "stars": 1131
@@ -340,10 +340,10 @@
           "repo_info": {
             "archived": false,
             "language": "HCL",
-            "last_commit": "2026-08-13T16:46:28Z",
+            "last_commit": "2026-08-18T10:37:03Z",
             "owner": "hcloud-k8s",
             "repo": "terraform-hcloud-kubernetes",
-            "stars": 691
+            "stars": 690
           }
         },
         {
@@ -410,7 +410,7 @@
           "repo_info": {
             "archived": false,
             "language": "HCL",
-            "last_commit": "2026-08-11T06:18:31Z",
+            "last_commit": "2026-08-18T10:09:17Z",
             "owner": "identiops",
             "repo": "terraform-hcloud-k3s",
             "stars": 156
@@ -452,7 +452,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T13:42:46Z",
+            "last_commit": "2026-08-17T13:42:43Z",
             "owner": "ngine-io",
             "repo": "chaotic",
             "stars": 74
@@ -550,7 +550,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T10:01:27Z",
+            "last_commit": "2026-08-17T15:44:43Z",
             "owner": "raphaelbernhart",
             "repo": "healthznerbot",
             "stars": 36
@@ -578,10 +578,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T07:16:04Z",
+            "last_commit": "2026-08-18T08:40:25Z",
             "owner": "hetznercloud",
             "repo": "setup-hcloud",
-            "stars": 28
+            "stars": 29
           }
         },
         {
@@ -724,10 +724,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T07:38:57Z",
+            "last_commit": "2026-08-18T10:55:47Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65684
+            "stars": 65715
           }
         },
         {
@@ -741,7 +741,7 @@
             "last_commit": "2026-08-12T08:46:21Z",
             "owner": "trailofbits",
             "repo": "algo",
-            "stars": 30353
+            "stars": 30355
           }
         },
         {
@@ -752,10 +752,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T21:22:06Z",
+            "last_commit": "2026-08-18T06:57:00Z",
             "owner": "kubernetes",
             "repo": "autoscaler",
-            "stars": 8933
+            "stars": 8935
           }
         },
         {
@@ -766,10 +766,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T10:24:18Z",
+            "last_commit": "2026-08-18T09:20:18Z",
             "owner": "hetznercloud",
             "repo": "hcloud-cloud-controller-manager",
-            "stars": 922
+            "stars": 923
           }
         },
         {
@@ -780,10 +780,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T10:13:00Z",
+            "last_commit": "2026-08-18T04:49:42Z",
             "owner": "hetznercloud",
             "repo": "csi-driver",
-            "stars": 793
+            "stars": 794
           }
         },
         {
@@ -794,10 +794,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T09:00:29Z",
+            "last_commit": "2026-08-17T22:11:04Z",
             "owner": "hetznercloud",
             "repo": "terraform-provider-hcloud",
-            "stars": 731
+            "stars": 732
           }
         },
         {
@@ -808,7 +808,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2023-12-15T15:22:39Z",
+            "last_commit": "2026-08-17T19:33:21Z",
             "owner": "JonasProgrammer",
             "repo": "docker-machine-driver-hetzner",
             "stars": 438
@@ -850,7 +850,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T01:44:38Z",
+            "last_commit": "2026-08-17T11:50:47Z",
             "owner": "ansible-collections",
             "repo": "hetzner.hcloud",
             "stars": 152
@@ -934,7 +934,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T09:48:39Z",
+            "last_commit": "2026-08-18T04:52:15Z",
             "owner": "hetzner",
             "repo": "cert-manager-webhook-hetzner",
             "stars": 68
@@ -976,7 +976,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T09:45:15Z",
+            "last_commit": "2026-08-18T02:38:55Z",
             "owner": "hetznercloud",
             "repo": "packer-plugin-hcloud",
             "stars": 51
@@ -1004,7 +1004,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T14:52:38Z",
+            "last_commit": "2026-08-17T14:52:47Z",
             "owner": "ngine-io",
             "repo": "scalr",
             "stars": 50
@@ -1021,7 +1021,7 @@
             "last_commit": "2026-03-26T19:06:29Z",
             "owner": "mrsimonemms",
             "repo": "devpod-provider-hetzner",
-            "stars": 48
+            "stars": 49
           }
         },
         {
@@ -1116,7 +1116,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T14:36:25Z",
+            "last_commit": "2026-08-17T12:11:56Z",
             "owner": "ansible-community",
             "repo": "molecule-hetznercloud",
             "stars": 29
@@ -1158,7 +1158,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T10:57:47Z",
+            "last_commit": "2026-08-17T15:45:48Z",
             "owner": "hetzner",
             "repo": "external-dns-hetzner-webhook",
             "stars": 24
@@ -1362,7 +1362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:59:14.174Z",
+    "last_updated": "2026-08-18T10:58:41.998Z",
     "original_repository": "hetznercloud/awesome-hcloud",
     "original_repository_sha": "30813b307c5e88ac6bc6c570063539566f8a31c4",
     "enhanced_repository": "enhansome/enhansome-hcloud",
