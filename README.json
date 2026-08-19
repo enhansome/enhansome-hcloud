@@ -338,7 +338,7 @@
             "archived": false,
             "id": 399794767,
             "language": "Go",
-            "last_commit": "2026-08-17T12:48:37Z",
+            "last_commit": "2026-08-19T11:46:51Z",
             "owner": "syself",
             "repo": "cluster-api-provider-hetzner",
             "stars": 1131
@@ -368,7 +368,7 @@
             "archived": false,
             "id": 877376363,
             "language": "HCL",
-            "last_commit": "2026-08-18T10:37:03Z",
+            "last_commit": "2026-08-19T11:31:48Z",
             "owner": "hcloud-k8s",
             "repo": "terraform-hcloud-kubernetes",
             "stars": 691
@@ -443,7 +443,7 @@
             "archived": false,
             "id": 387512324,
             "language": "HCL",
-            "last_commit": "2026-08-18T10:09:17Z",
+            "last_commit": "2026-08-19T12:07:04Z",
             "owner": "identiops",
             "repo": "terraform-hcloud-k3s",
             "stars": 156
@@ -782,7 +782,7 @@
             "last_commit": "2026-08-19T10:06:24Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65748
+            "stars": 65751
           }
         },
         {
@@ -809,7 +809,7 @@
             "archived": false,
             "id": 87990209,
             "language": "Go",
-            "last_commit": "2026-08-18T19:13:10Z",
+            "last_commit": "2026-08-19T11:15:15Z",
             "owner": "kubernetes",
             "repo": "autoscaler",
             "stars": 8937
@@ -824,7 +824,7 @@
             "archived": false,
             "id": 118783793,
             "language": "Go",
-            "last_commit": "2026-08-19T10:46:20Z",
+            "last_commit": "2026-08-19T11:16:23Z",
             "owner": "hetznercloud",
             "repo": "hcloud-cloud-controller-manager",
             "stars": 923
@@ -1004,7 +1004,7 @@
             "archived": false,
             "id": 1067193644,
             "language": "Go",
-            "last_commit": "2026-08-19T09:12:56Z",
+            "last_commit": "2026-08-19T11:53:43Z",
             "owner": "hetzner",
             "repo": "cert-manager-webhook-hetzner",
             "stars": 68
@@ -1450,8 +1450,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:57:53.457Z",
+    "last_updated": "2026-08-19T12:36:55.227Z",
     "original_repository": "hetznercloud/awesome-hcloud",
+    "original_repository_id": 120596048,
     "original_repository_sha": "30813b307c5e88ac6bc6c570063539566f8a31c4",
     "enhanced_repository": "enhansome/enhansome-hcloud",
     "enhanced_repository_description": null,
