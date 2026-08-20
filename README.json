@@ -233,10 +233,10 @@
             "archived": false,
             "id": 62091339,
             "language": "Go",
-            "last_commit": "2026-08-19T10:41:09Z",
+            "last_commit": "2026-08-20T09:11:13Z",
             "owner": "kubernetes",
             "repo": "kops",
-            "stars": 16663
+            "stars": 16665
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2026-08-10T07:52:56Z",
             "owner": "mysticaltech",
             "repo": "terraform-hcloud-kube-hetzner",
-            "stars": 3912
+            "stars": 3914
           }
         },
         {
@@ -281,7 +281,7 @@
             "last_commit": "2026-06-24T12:27:23Z",
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3662
+            "stars": 3663
           }
         },
         {
@@ -296,7 +296,7 @@
             "last_commit": "2026-08-17T22:23:11Z",
             "owner": "vitodeploy",
             "repo": "vito",
-            "stars": 3211
+            "stars": 3214
           }
         },
         {
@@ -311,7 +311,7 @@
             "last_commit": "2026-08-18T21:01:58Z",
             "owner": "hetznercloud",
             "repo": "cli",
-            "stars": 1779
+            "stars": 1781
           }
         },
         {
@@ -323,7 +323,7 @@
             "archived": false,
             "id": 155974736,
             "language": "Go",
-            "last_commit": "2026-08-18T14:01:25Z",
+            "last_commit": "2026-08-19T17:08:29Z",
             "owner": "kubermatic",
             "repo": "kubeone",
             "stars": 1525
@@ -338,10 +338,10 @@
             "archived": false,
             "id": 399794767,
             "language": "Go",
-            "last_commit": "2026-08-19T11:46:51Z",
+            "last_commit": "2026-08-20T09:55:19Z",
             "owner": "syself",
             "repo": "cluster-api-provider-hetzner",
-            "stars": 1131
+            "stars": 1132
           }
         },
         {
@@ -383,7 +383,7 @@
             "archived": false,
             "id": 772815777,
             "language": "HCL",
-            "last_commit": "2026-08-18T22:02:52Z",
+            "last_commit": "2026-08-20T01:06:37Z",
             "owner": "hcloud-talos",
             "repo": "terraform-hcloud-talos",
             "stars": 352
@@ -428,7 +428,7 @@
             "archived": false,
             "id": 793730572,
             "language": "Go",
-            "last_commit": "2026-08-17T10:11:43Z",
+            "last_commit": "2026-08-20T00:36:49Z",
             "owner": "apricote",
             "repo": "hcloud-upload-image",
             "stars": 158
@@ -548,7 +548,7 @@
             "archived": false,
             "id": 1111835873,
             "language": "Go",
-            "last_commit": "2026-08-18T15:54:52Z",
+            "last_commit": "2026-08-20T06:03:57Z",
             "owner": "crstian19",
             "repo": "prometheus-storagebox-exporter",
             "stars": 48
@@ -728,7 +728,7 @@
             "archived": false,
             "id": 980923093,
             "language": "Python",
-            "last_commit": "2026-08-18T23:57:17Z",
+            "last_commit": "2026-08-19T20:06:19Z",
             "owner": "rtulke",
             "repo": "hicloud",
             "stars": 6
@@ -743,7 +743,7 @@
             "archived": false,
             "id": 901871999,
             "language": "Go",
-            "last_commit": "2026-08-16T17:34:57Z",
+            "last_commit": "2026-08-20T09:51:40Z",
             "owner": "cgroschupp",
             "repo": "hetzner-nuke",
             "stars": 3
@@ -779,10 +779,10 @@
             "archived": false,
             "id": 6838921,
             "language": "Go",
-            "last_commit": "2026-08-19T10:06:24Z",
+            "last_commit": "2026-08-19T14:50:45Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65751
+            "stars": 65762
           }
         },
         {
@@ -797,7 +797,7 @@
             "last_commit": "2026-08-19T08:43:19Z",
             "owner": "trailofbits",
             "repo": "algo",
-            "stars": 30355
+            "stars": 30356
           }
         },
         {
@@ -809,10 +809,10 @@
             "archived": false,
             "id": 87990209,
             "language": "Go",
-            "last_commit": "2026-08-19T11:15:15Z",
+            "last_commit": "2026-08-20T09:03:12Z",
             "owner": "kubernetes",
             "repo": "autoscaler",
-            "stars": 8937
+            "stars": 8938
           }
         },
         {
@@ -824,7 +824,7 @@
             "archived": false,
             "id": 118783793,
             "language": "Go",
-            "last_commit": "2026-08-19T11:16:23Z",
+            "last_commit": "2026-08-20T05:47:30Z",
             "owner": "hetznercloud",
             "repo": "hcloud-cloud-controller-manager",
             "stars": 923
@@ -914,7 +914,7 @@
             "archived": false,
             "id": 244995547,
             "language": "Python",
-            "last_commit": "2026-08-17T11:50:47Z",
+            "last_commit": "2026-08-19T19:01:49Z",
             "owner": "ansible-collections",
             "repo": "hetzner.hcloud",
             "stars": 152
@@ -929,7 +929,7 @@
             "archived": false,
             "id": 181159059,
             "language": "Go",
-            "last_commit": "2026-08-16T22:09:28Z",
+            "last_commit": "2026-08-19T17:54:49Z",
             "owner": "cbeneke",
             "repo": "hcloud-fip-controller",
             "stars": 147
@@ -982,6 +982,21 @@
         },
         {
           "node_type": "item",
+          "title": "cert-manager Webhook Hetzner — This webhook provides integration between cert-manager and the Hetzner DNS API to handle DNS-01 challenges.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1067193644,
+            "language": "Go",
+            "last_commit": "2026-08-19T11:53:43Z",
+            "owner": "hetzner",
+            "repo": "cert-manager-webhook-hetzner",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
           "title": "hcloud IP Floater",
           "description": "Kubernetes controller to attach hcloud floating IPs to services' nodes.",
           "children": [],
@@ -993,21 +1008,6 @@
             "owner": "costela",
             "repo": "hcloud-ip-floater",
             "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cert-manager Webhook Hetzner — This webhook provides integration between cert-manager and the Hetzner DNS API to handle DNS-01 challenges.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1067193644,
-            "language": "Go",
-            "last_commit": "2026-08-19T11:53:43Z",
-            "owner": "hetzner",
-            "repo": "cert-manager-webhook-hetzner",
-            "stars": 68
           }
         },
         {
@@ -1259,7 +1259,7 @@
             "archived": false,
             "id": 334118746,
             "language": "Go",
-            "last_commit": "2026-08-17T08:14:02Z",
+            "last_commit": "2026-08-19T16:24:25Z",
             "owner": "23technologies",
             "repo": "gardener-extension-provider-hcloud",
             "stars": 17
@@ -1327,21 +1327,6 @@
         },
         {
           "node_type": "item",
-          "title": "hetzner-server-manager",
-          "description": "Simple, self-hosted web application to manage multiple Hetzner Cloud servers and projects from a single, clean interface. Built with Python, Flask, and Tailwind CSS, and fully containerized with Docker.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1005204106,
-            "language": "HTML",
-            "last_commit": "2026-08-05T04:41:24Z",
-            "owner": "alfiosalanitri",
-            "repo": "hetzner-server-manager",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
           "title": "libcluster_hcloud",
           "description": "This is a Hetzner Cloud clustering strategy for libcluster",
           "children": [],
@@ -1352,6 +1337,21 @@
             "last_commit": "2024-02-18T19:36:32Z",
             "owner": "EightSQ",
             "repo": "libcluster_hcloud",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hetzner-server-manager",
+          "description": "Simple, self-hosted web application to manage multiple Hetzner Cloud servers and projects from a single, clean interface. Built with Python, Flask, and Tailwind CSS, and fully containerized with Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1005204106,
+            "language": "HTML",
+            "last_commit": "2026-08-05T04:41:24Z",
+            "owner": "alfiosalanitri",
+            "repo": "hetzner-server-manager",
             "stars": 10
           }
         },
@@ -1450,7 +1450,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:36:55.227Z",
+    "last_updated": "2026-08-20T11:00:29.103Z",
     "original_repository": "hetznercloud/awesome-hcloud",
     "original_repository_id": 120596048,
     "original_repository_sha": "30813b307c5e88ac6bc6c570063539566f8a31c4",
