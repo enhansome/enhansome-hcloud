@@ -148,6 +148,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "hcloud-java",
+              "description": "hcloud-java is a fully tested and easy to use Java API Integration. It follows an Observer Pattern and focuses on minimal dependency bloat.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 874971274,
+                "language": "Java",
+                "last_commit": "2025-02-13T22:58:40Z",
+                "owner": "CubitsDev",
+                "repo": "hcloud-java",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "hcloud-js",
               "description": "A Node.js module for the Hetzner Cloud API — ⚠️ Deprecated",
               "children": [],
@@ -185,6 +207,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "hetznerkloud",
+              "description": "Kotlin library for Hetzner Cloud API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 881969724,
+                "language": "Kotlin",
+                "last_commit": "2025-10-07T21:26:53Z",
+                "owner": "sasa-b",
+                "repo": "hetznerkloud",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Kotlin"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hetzner Cloud PHP SDK",
+              "description": "A PHP SDK for the Hetzner Cloud API: docs.hetzner.cloud",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119290405,
+                "language": "PHP",
+                "last_commit": "2026-07-21T03:02:24Z",
+                "owner": "LKDevelopment",
+                "repo": "hetzner-cloud-php-sdk",
+                "stars": 129
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hcloud-python — hcloud-python is a library for the Hetzner Cloud API.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162585627,
+                "language": "Python",
+                "last_commit": "2026-08-15T02:25:29Z",
+                "owner": "hetznercloud",
+                "repo": "hcloud-python",
+                "stars": 397
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "hcloud-ruby",
               "description": "Native ruby client for HetznerCloud",
               "children": [],
@@ -217,6 +305,28 @@
           "description": null,
           "node_type": "group",
           "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hcloud-rust",
+              "description": "Unofficial Rust crate for accessing the Hetzner Cloud API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267692274,
+                "language": "Rust",
+                "last_commit": "2026-07-06T18:02:47Z",
+                "owner": "HenningHolmDE",
+                "repo": "hcloud-rust",
+                "stars": 94
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
         }
       ],
       "title": "Libraries"
@@ -233,7 +343,7 @@
             "archived": false,
             "id": 62091339,
             "language": "Go",
-            "last_commit": "2026-08-24T07:41:19Z",
+            "last_commit": "2026-08-24T13:59:01Z",
             "owner": "kubernetes",
             "repo": "kops",
             "stars": 16667
@@ -251,7 +361,7 @@
             "last_commit": "2023-09-21T14:37:01Z",
             "owner": "hobby-kube",
             "repo": "guide",
-            "stars": 5657
+            "stars": 5656
           }
         },
         {
@@ -281,7 +391,7 @@
             "last_commit": "2026-06-24T12:27:23Z",
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3665
+            "stars": 3666
           }
         },
         {
@@ -311,7 +421,7 @@
             "last_commit": "2026-08-24T01:49:19Z",
             "owner": "hetznercloud",
             "repo": "cli",
-            "stars": 1782
+            "stars": 1783
           }
         },
         {
@@ -323,7 +433,7 @@
             "archived": false,
             "id": 155974736,
             "language": "Go",
-            "last_commit": "2026-08-24T10:30:48Z",
+            "last_commit": "2026-08-24T12:30:42Z",
             "owner": "kubermatic",
             "repo": "kubeone",
             "stars": 1525
@@ -338,7 +448,7 @@
             "archived": false,
             "id": 399794767,
             "language": "Go",
-            "last_commit": "2026-08-24T10:36:27Z",
+            "last_commit": "2026-08-24T13:56:47Z",
             "owner": "syself",
             "repo": "cluster-api-provider-hetzner",
             "stars": 1132
@@ -779,10 +889,10 @@
             "archived": false,
             "id": 6838921,
             "language": "Go",
-            "last_commit": "2026-08-24T09:21:15Z",
+            "last_commit": "2026-08-24T12:48:09Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65795
+            "stars": 65798
           }
         },
         {
@@ -809,10 +919,10 @@
             "archived": false,
             "id": 87990209,
             "language": "Go",
-            "last_commit": "2026-08-24T08:29:24Z",
+            "last_commit": "2026-08-24T11:46:58Z",
             "owner": "kubernetes",
             "repo": "autoscaler",
-            "stars": 8945
+            "stars": 8946
           }
         },
         {
@@ -839,7 +949,7 @@
             "archived": false,
             "id": 162441106,
             "language": "Go",
-            "last_commit": "2026-08-24T05:02:38Z",
+            "last_commit": "2026-08-24T12:45:28Z",
             "owner": "hetznercloud",
             "repo": "csi-driver",
             "stars": 795
@@ -1450,7 +1560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:04:05.230Z",
+    "last_updated": "2026-08-24T14:10:55.977Z",
     "original_repository": "hetznercloud/awesome-hcloud",
     "original_repository_id": 120596048,
     "original_repository_sha": "30813b307c5e88ac6bc6c570063539566f8a31c4",
