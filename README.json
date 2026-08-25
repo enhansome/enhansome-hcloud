@@ -295,7 +295,7 @@
                 "archived": false,
                 "id": 384486697,
                 "language": "Ruby",
-                "last_commit": "2026-08-24T19:42:53Z",
+                "last_commit": "2026-08-25T06:29:00Z",
                 "owner": "floriandejonckheere",
                 "repo": "hcloud",
                 "stars": 13
@@ -376,7 +376,7 @@
             "last_commit": "2026-08-10T07:52:56Z",
             "owner": "mysticaltech",
             "repo": "terraform-hcloud-kube-hetzner",
-            "stars": 3917
+            "stars": 3918
           }
         },
         {
@@ -391,7 +391,7 @@
             "last_commit": "2026-06-24T12:27:23Z",
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3667
+            "stars": 3666
           }
         },
         {
@@ -421,7 +421,7 @@
             "last_commit": "2026-08-24T01:49:19Z",
             "owner": "hetznercloud",
             "repo": "cli",
-            "stars": 1784
+            "stars": 1785
           }
         },
         {
@@ -889,10 +889,10 @@
             "archived": false,
             "id": 6838921,
             "language": "Go",
-            "last_commit": "2026-08-24T18:11:49Z",
+            "last_commit": "2026-08-25T09:03:34Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65804
+            "stars": 65812
           }
         },
         {
@@ -952,7 +952,7 @@
             "last_commit": "2026-08-24T12:45:28Z",
             "owner": "hetznercloud",
             "repo": "csi-driver",
-            "stars": 795
+            "stars": 794
           }
         },
         {
@@ -1560,7 +1560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:07:19.100Z",
+    "last_updated": "2026-08-25T11:02:11.521Z",
     "original_repository": "hetznercloud/awesome-hcloud",
     "original_repository_id": 120596048,
     "original_repository_sha": "30813b307c5e88ac6bc6c570063539566f8a31c4",
