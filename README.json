@@ -295,7 +295,7 @@
                 "archived": false,
                 "id": 384486697,
                 "language": "Ruby",
-                "last_commit": "2026-08-17T20:13:59Z",
+                "last_commit": "2026-08-24T19:42:53Z",
                 "owner": "floriandejonckheere",
                 "repo": "hcloud",
                 "stars": 13
@@ -343,10 +343,10 @@
             "archived": false,
             "id": 62091339,
             "language": "Go",
-            "last_commit": "2026-08-24T13:59:01Z",
+            "last_commit": "2026-08-25T03:16:59Z",
             "owner": "kubernetes",
             "repo": "kops",
-            "stars": 16667
+            "stars": 16668
           }
         },
         {
@@ -391,7 +391,7 @@
             "last_commit": "2026-06-24T12:27:23Z",
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3666
+            "stars": 3667
           }
         },
         {
@@ -421,7 +421,7 @@
             "last_commit": "2026-08-24T01:49:19Z",
             "owner": "hetznercloud",
             "repo": "cli",
-            "stars": 1783
+            "stars": 1784
           }
         },
         {
@@ -433,7 +433,7 @@
             "archived": false,
             "id": 155974736,
             "language": "Go",
-            "last_commit": "2026-08-24T12:30:42Z",
+            "last_commit": "2026-08-24T19:23:51Z",
             "owner": "kubermatic",
             "repo": "kubeone",
             "stars": 1525
@@ -889,10 +889,10 @@
             "archived": false,
             "id": 6838921,
             "language": "Go",
-            "last_commit": "2026-08-24T12:48:09Z",
+            "last_commit": "2026-08-24T18:11:49Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65798
+            "stars": 65804
           }
         },
         {
@@ -919,10 +919,10 @@
             "archived": false,
             "id": 87990209,
             "language": "Go",
-            "last_commit": "2026-08-24T11:46:58Z",
+            "last_commit": "2026-08-24T20:24:31Z",
             "owner": "kubernetes",
             "repo": "autoscaler",
-            "stars": 8946
+            "stars": 8948
           }
         },
         {
@@ -1152,6 +1152,21 @@
         },
         {
           "node_type": "item",
+          "title": "robotlb",
+          "description": "Cloud Load Balancers for Kubernetes clusters on Robot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 889399225,
+            "language": "Rust",
+            "last_commit": "2026-04-23T11:33:07Z",
+            "owner": "Treetscom",
+            "repo": "robotlb",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Hetzner Cloud Packer Builder — An official Packer.io Builder for Hetzner Cloud",
           "description": null,
           "children": [],
@@ -1167,21 +1182,6 @@
         },
         {
           "node_type": "item",
-          "title": "robotlb",
-          "description": "Cloud Load Balancers for Kubernetes clusters on Robot",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 889399225,
-            "language": "Rust",
-            "last_commit": "2026-04-23T11:33:07Z",
-            "owner": "Treetscom",
-            "repo": "robotlb",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
           "title": "scalr",
           "description": "Autoscaling for Clouds - Scale Cloud instances based on policy checks in a configurable interval. With Hetzner Cloud and Prometheus support.",
           "children": [],
@@ -1189,7 +1189,7 @@
             "archived": false,
             "id": 274773607,
             "language": "Python",
-            "last_commit": "2026-08-17T14:52:47Z",
+            "last_commit": "2026-08-24T20:19:36Z",
             "owner": "ngine-io",
             "repo": "scalr",
             "stars": 50
@@ -1354,7 +1354,7 @@
             "archived": false,
             "id": 1067194329,
             "language": "Go",
-            "last_commit": "2026-08-24T05:05:25Z",
+            "last_commit": "2026-08-24T23:01:02Z",
             "owner": "hetzner",
             "repo": "external-dns-hetzner-webhook",
             "stars": 24
@@ -1377,21 +1377,6 @@
         },
         {
           "node_type": "item",
-          "title": "Paymenter Server Extension",
-          "description": "Simplify Hetzner Cloud server orders with this Paymenter.org extension. — ⚠️ Deprecated",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "id": 725665229,
-            "language": "Blade",
-            "last_commit": "2025-08-14T16:31:42Z",
-            "owner": "ha1fdan",
-            "repo": "HetznerCloudExtension",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
           "title": "karpenter-provider-hetzner",
           "description": "Karpenter node autoprovisioning for Hetzner Cloud: launches the cheapest server that fits pending pods and consolidates idle nodes. By Paperclip.inc.",
           "children": [],
@@ -1402,6 +1387,21 @@
             "last_commit": "2026-08-03T09:34:07Z",
             "owner": "paperclipinc",
             "repo": "karpenter-provider-hetzner",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paymenter Server Extension",
+          "description": "Simplify Hetzner Cloud server orders with this Paymenter.org extension. — ⚠️ Deprecated",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 725665229,
+            "language": "Blade",
+            "last_commit": "2025-08-14T16:31:42Z",
+            "owner": "ha1fdan",
+            "repo": "HetznerCloudExtension",
             "stars": 14
           }
         },
@@ -1560,7 +1560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:10:55.977Z",
+    "last_updated": "2026-08-25T06:07:19.100Z",
     "original_repository": "hetznercloud/awesome-hcloud",
     "original_repository_id": 120596048,
     "original_repository_sha": "30813b307c5e88ac6bc6c570063539566f8a31c4",
