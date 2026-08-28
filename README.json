@@ -18,7 +18,8 @@
                 "owner": "lk-code",
                 "repo": "hetzner-cloud-api-net",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:13:16.563Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "ljchuello",
                 "repo": "HetznerCloud.API",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T21:13:16.563Z"
             }
           ],
           "description": null,
@@ -51,11 +53,12 @@
                 "archived": false,
                 "id": 112504288,
                 "language": "Go",
-                "last_commit": "2026-08-25T14:48:20Z",
+                "last_commit": "2026-08-28T10:05:50Z",
                 "owner": "hetznercloud",
                 "repo": "hcloud-go",
                 "stars": 509
-              }
+              },
+              "first_seen": "2026-08-28T21:13:16.563Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "acim",
                 "repo": "hcdns",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:13:16.563Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "mrsimonemms",
                 "repo": "hetzner-golang-actions",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:13:16.563Z"
             }
           ],
           "description": null,
@@ -107,7 +112,8 @@
                 "owner": "wszychta",
                 "repo": "terraform-module.hcloud-user-data",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:13:16.563Z"
             },
             {
               "node_type": "item",
@@ -122,7 +128,8 @@
                 "owner": "colinwilson",
                 "repo": "terraform-kubernetes-hcloud-csi-driver",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T21:13:16.563Z"
             },
             {
               "node_type": "item",
@@ -137,7 +144,8 @@
                 "owner": "hegerdes",
                 "repo": "terraform-hcloud-hetzner-node-pool",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:13:16.563Z"
             }
           ],
           "description": null,
@@ -159,7 +167,8 @@
                 "owner": "CubitsDev",
                 "repo": "hcloud-java",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:13:16.563Z"
             }
           ],
           "description": null,
@@ -181,7 +190,8 @@
                 "owner": "dennisbruner",
                 "repo": "hcloud-js",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T21:13:16.563Z"
             },
             {
               "node_type": "item",
@@ -196,7 +206,8 @@
                 "owner": "LeonSpors",
                 "repo": "hcloud-nodejs",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:13:16.563Z"
             }
           ],
           "description": null,
@@ -218,7 +229,8 @@
                 "owner": "sasa-b",
                 "repo": "hetznerkloud",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:13:16.563Z"
             }
           ],
           "description": null,
@@ -240,7 +252,8 @@
                 "owner": "LKDevelopment",
                 "repo": "hetzner-cloud-php-sdk",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T21:13:16.563Z"
             }
           ],
           "description": null,
@@ -258,11 +271,12 @@
                 "archived": false,
                 "id": 162585627,
                 "language": "Python",
-                "last_commit": "2026-08-15T02:25:29Z",
+                "last_commit": "2026-08-28T10:19:10Z",
                 "owner": "hetznercloud",
                 "repo": "hcloud-python",
                 "stars": 398
-              }
+              },
+              "first_seen": "2026-08-28T21:13:16.563Z"
             }
           ],
           "description": null,
@@ -284,7 +298,8 @@
                 "owner": "tonobo",
                 "repo": "hcloud-ruby",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T21:13:16.563Z"
             },
             {
               "node_type": "item",
@@ -299,7 +314,8 @@
                 "owner": "floriandejonckheere",
                 "repo": "hcloud",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:13:16.563Z"
             }
           ],
           "description": null,
@@ -321,7 +337,8 @@
                 "owner": "HenningHolmDE",
                 "repo": "hcloud-rust",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T21:13:16.563Z"
             }
           ],
           "description": null,
@@ -343,11 +360,12 @@
             "archived": false,
             "id": 62091339,
             "language": "Go",
-            "last_commit": "2026-08-27T10:33:48Z",
+            "last_commit": "2026-08-28T14:34:06Z",
             "owner": "kubernetes",
             "repo": "kops",
-            "stars": 16669
-          }
+            "stars": 16670
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -362,7 +380,8 @@
             "owner": "hobby-kube",
             "repo": "guide",
             "stars": 5657
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -376,8 +395,9 @@
             "last_commit": "2026-08-10T07:52:56Z",
             "owner": "mysticaltech",
             "repo": "terraform-hcloud-kube-hetzner",
-            "stars": 3920
-          }
+            "stars": 3921
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -392,7 +412,8 @@
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
             "stars": 3666
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -407,7 +428,8 @@
             "owner": "vitodeploy",
             "repo": "vito",
             "stars": 3218
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -418,11 +440,12 @@
             "archived": false,
             "id": 112504630,
             "language": "Go",
-            "last_commit": "2026-08-27T08:13:59Z",
+            "last_commit": "2026-08-28T13:51:40Z",
             "owner": "hetznercloud",
             "repo": "cli",
             "stars": 1786
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -437,7 +460,8 @@
             "owner": "kubermatic",
             "repo": "kubeone",
             "stars": 1525
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -448,11 +472,12 @@
             "archived": false,
             "id": 399794767,
             "language": "Go",
-            "last_commit": "2026-08-27T15:21:34Z",
+            "last_commit": "2026-08-28T15:01:08Z",
             "owner": "syself",
             "repo": "cluster-api-provider-hetzner",
             "stars": 1131
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -467,7 +492,8 @@
             "owner": "xetys",
             "repo": "hetzner-kube",
             "stars": 751
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -482,7 +508,24 @@
             "owner": "hcloud-k8s",
             "repo": "terraform-hcloud-kubernetes",
             "stars": 696
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
+        },
+        {
+          "node_type": "item",
+          "title": "purple",
+          "description": "SSH client TUI with built-in Hetzner Cloud sync. Auto-discovers servers, syncs metadata (location, type, image, status), provider tags and stale host detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1161891767,
+            "language": "Rust",
+            "last_commit": "2026-08-27T17:22:42Z",
+            "owner": "erickochen",
+            "repo": "purple",
+            "stars": 660
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -497,7 +540,8 @@
             "owner": "hcloud-talos",
             "repo": "terraform-hcloud-talos",
             "stars": 353
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -512,7 +556,8 @@
             "owner": "terem42",
             "repo": "zfs-hetzner-vm",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -527,7 +572,8 @@
             "owner": "fbrettnich",
             "repo": "hcloud-snapshot-as-backup",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -538,11 +584,12 @@
             "archived": false,
             "id": 793730572,
             "language": "Go",
-            "last_commit": "2026-08-27T19:32:34Z",
+            "last_commit": "2026-08-28T17:54:09Z",
             "owner": "apricote",
             "repo": "hcloud-upload-image",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -557,7 +604,8 @@
             "owner": "identiops",
             "repo": "terraform-hcloud-k3s",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -572,7 +620,8 @@
             "owner": "testflows",
             "repo": "TestFlows-GitHub-Hetzner-Runners",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -587,7 +636,8 @@
             "owner": "poundifdef",
             "repo": "certmaster",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -602,7 +652,8 @@
             "owner": "ngine-io",
             "repo": "chaotic",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -617,7 +668,8 @@
             "owner": "jangraefen",
             "repo": "hcloud-pricing-exporter",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -632,7 +684,8 @@
             "owner": "jonamat",
             "repo": "hetzner-rescaler",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -647,7 +700,8 @@
             "owner": "byhlz",
             "repo": "hcloud-failover-keepalived",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -662,7 +716,8 @@
             "owner": "crstian19",
             "repo": "prometheus-storagebox-exporter",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -677,7 +732,8 @@
             "owner": "wacken89",
             "repo": "hetzner-load-balancer-prometheus-exporter",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -692,7 +748,8 @@
             "owner": "janosmiko",
             "repo": "hetzner-k3s",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -707,7 +764,8 @@
             "owner": "raphaelbernhart",
             "repo": "healthznerbot",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -722,7 +780,8 @@
             "owner": "Twingate-Labs",
             "repo": "tg-cli",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -737,7 +796,8 @@
             "owner": "hetznercloud",
             "repo": "setup-hcloud",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -752,7 +812,8 @@
             "owner": "ngine-io",
             "repo": "ansible-role-hcloud",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -767,7 +828,8 @@
             "owner": "Stupremee",
             "repo": "terraform-hcloud-hks",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -782,7 +844,8 @@
             "owner": "geberl",
             "repo": "hcloud-menubar",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -797,7 +860,8 @@
             "owner": "schemen",
             "repo": "kubernetes-hetzner-keepalived",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -812,7 +876,8 @@
             "owner": "worldworm",
             "repo": "hcloud-selfdestruct",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -827,7 +892,8 @@
             "owner": "BlueBambooStudios",
             "repo": "hcloud-connect",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -842,7 +908,8 @@
             "owner": "rtulke",
             "repo": "hicloud",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -857,7 +924,8 @@
             "owner": "cgroschupp",
             "repo": "hetzner-nuke",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -872,7 +940,24 @@
             "owner": "byhlz",
             "repo": "hcloud_assign_ip",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
+        },
+        {
+          "node_type": "item",
+          "title": "hetzner-images",
+          "description": "Hetzner bootimages as multi-arch container images on GitHub Container Registry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1168271379,
+            "language": "Shell",
+            "last_commit": "2026-08-23T04:38:55Z",
+            "owner": "mystack-cloud",
+            "repo": "hetzner-images",
+            "stars": 1
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         }
       ],
       "title": "Tools"
@@ -889,11 +974,12 @@
             "archived": false,
             "id": 6838921,
             "language": "Go",
-            "last_commit": "2026-08-27T20:30:26Z",
+            "last_commit": "2026-08-28T16:51:00Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65858
-          }
+            "stars": 65878
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -907,8 +993,9 @@
             "last_commit": "2026-08-26T21:45:41Z",
             "owner": "trailofbits",
             "repo": "algo",
-            "stars": 30368
-          }
+            "stars": 30367
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -919,11 +1006,12 @@
             "archived": false,
             "id": 87990209,
             "language": "Go",
-            "last_commit": "2026-08-27T17:05:57Z",
+            "last_commit": "2026-08-28T19:04:05Z",
             "owner": "kubernetes",
             "repo": "autoscaler",
-            "stars": 8951
-          }
+            "stars": 8952
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -934,11 +1022,12 @@
             "archived": false,
             "id": 118783793,
             "language": "Go",
-            "last_commit": "2026-08-27T10:57:19Z",
+            "last_commit": "2026-08-28T12:45:50Z",
             "owner": "hetznercloud",
             "repo": "hcloud-cloud-controller-manager",
             "stars": 926
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -953,7 +1042,8 @@
             "owner": "hetznercloud",
             "repo": "csi-driver",
             "stars": 795
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -964,11 +1054,12 @@
             "archived": false,
             "id": 136213126,
             "language": "Go",
-            "last_commit": "2026-08-25T17:13:43Z",
+            "last_commit": "2026-08-28T08:12:18Z",
             "owner": "hetznercloud",
             "repo": "terraform-provider-hcloud",
             "stars": 736
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -983,7 +1074,8 @@
             "owner": "JonasProgrammer",
             "repo": "docker-machine-driver-hetzner",
             "stars": 438
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -998,7 +1090,8 @@
             "owner": "mxschmitt",
             "repo": "ui-driver-hetzner",
             "stars": 262
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1013,7 +1106,8 @@
             "owner": "Cyclenerd",
             "repo": "hcloud-github-runner",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1028,7 +1122,8 @@
             "owner": "ansible-collections",
             "repo": "hetzner.hcloud",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1043,7 +1138,8 @@
             "owner": "cbeneke",
             "repo": "hcloud-fip-controller",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1058,7 +1154,8 @@
             "owner": "dkruyt",
             "repo": "mcp-hetzner",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1073,7 +1170,8 @@
             "owner": "costela",
             "repo": "docker-volume-hetzner",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1088,7 +1186,8 @@
             "owner": "erfjab",
             "repo": "ServerManagerBot",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1102,8 +1201,9 @@
             "last_commit": "2026-08-26T07:54:50Z",
             "owner": "hetzner",
             "repo": "cert-manager-webhook-hetzner",
-            "stars": 69
-          }
+            "stars": 70
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1118,7 +1218,8 @@
             "owner": "costela",
             "repo": "hcloud-ip-floater",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1133,7 +1234,8 @@
             "owner": "hg8496",
             "repo": "ansible-hcloud-inventory",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1148,7 +1250,8 @@
             "owner": "palark",
             "repo": "hetzner-bare-metal-ansible",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1159,11 +1262,12 @@
             "archived": false,
             "id": 358037005,
             "language": "Go",
-            "last_commit": "2026-08-25T22:32:16Z",
+            "last_commit": "2026-08-28T08:11:03Z",
             "owner": "hetznercloud",
             "repo": "packer-plugin-hcloud",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1178,7 +1282,8 @@
             "owner": "Treetscom",
             "repo": "robotlb",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1193,7 +1298,8 @@
             "owner": "ngine-io",
             "repo": "scalr",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1208,7 +1314,8 @@
             "owner": "mrsimonemms",
             "repo": "devpod-provider-hetzner",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1223,7 +1330,8 @@
             "owner": "alexzimmer96",
             "repo": "rancher-hcloud",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1238,7 +1346,8 @@
             "owner": "germanbrew",
             "repo": "terraform-provider-hetznerdns",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1253,7 +1362,8 @@
             "owner": "apricote",
             "repo": "grafana-hcloud-datasource",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1268,7 +1378,8 @@
             "owner": "Navid2zp",
             "repo": "hcloud-tg",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1283,7 +1394,8 @@
             "owner": "TimDaub",
             "repo": "hetzner-cloud-deploy-server-action",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1298,7 +1410,8 @@
             "owner": "paulc",
             "repo": "hcloud-freebsd",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1313,7 +1426,8 @@
             "owner": "ansible-community",
             "repo": "molecule-hetznercloud",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1328,7 +1442,8 @@
             "owner": "ntimo",
             "repo": "coder-hetzner-cloud-template",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1343,7 +1458,8 @@
             "owner": "jenkinsci",
             "repo": "hetzner-cloud-plugin",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1358,7 +1474,8 @@
             "owner": "hetzner",
             "repo": "external-dns-hetzner-webhook",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1369,11 +1486,12 @@
             "archived": false,
             "id": 334118746,
             "language": "Go",
-            "last_commit": "2026-08-27T20:27:36Z",
+            "last_commit": "2026-08-27T23:45:25Z",
             "owner": "23technologies",
             "repo": "gardener-extension-provider-hcloud",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1387,8 +1505,9 @@
             "last_commit": "2026-08-26T05:04:49Z",
             "owner": "paperclipinc",
             "repo": "karpenter-provider-hetzner",
-            "stars": 16
-          }
+            "stars": 17
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1403,7 +1522,8 @@
             "owner": "ha1fdan",
             "repo": "HetznerCloudExtension",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1418,7 +1538,8 @@
             "owner": "miaits",
             "repo": "provider-hetzner",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1433,7 +1554,8 @@
             "owner": "marvinruder",
             "repo": "hetzner-dyndns",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1448,7 +1570,8 @@
             "owner": "EightSQ",
             "repo": "libcluster_hcloud",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1463,7 +1586,8 @@
             "owner": "alfiosalanitri",
             "repo": "hetzner-server-manager",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1478,7 +1602,8 @@
             "owner": "bonsai-oss",
             "repo": "hetzner-machine-provider",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1493,7 +1618,8 @@
             "owner": "colinwilson",
             "repo": "terraform-kubernetes-hcloud-controller-manager",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1508,7 +1634,8 @@
             "owner": "itomig-de",
             "repo": "itomig-hetzner-collector",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1523,7 +1650,24 @@
             "owner": "MahdadGhasemian",
             "repo": "mcp-hetzner-go",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Hetzner Cloudflare Telegram bot",
+          "description": "A secure Telegram bot to manage your Hetzner Cloud servers and automatically update Cloudflare DNS records.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1145404414,
+            "language": "Python",
+            "last_commit": "2026-01-29T19:43:45Z",
+            "owner": "Pixelate1",
+            "repo": "Hetzner_Cloudflare_Telegram_bot",
+            "stars": 2
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1538,7 +1682,8 @@
             "owner": "selfscrum",
             "repo": "terraform-hcloud-routeros-router",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         },
         {
           "node_type": "item",
@@ -1553,24 +1698,25 @@
             "owner": "selfscrum",
             "repo": "terraform-hcloud-routeros-router-configuration",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:16.563Z"
         }
       ],
       "title": "Integrations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:42:41.872Z",
+    "last_updated": "2026-08-28T21:13:16.563Z",
     "original_repository_info": {
       "archived": false,
       "id": 120596048,
       "language": null,
-      "last_commit": "2026-07-20T10:46:53Z",
+      "last_commit": "2026-08-28T10:39:22Z",
       "owner": "hetznercloud",
       "repo": "awesome-hcloud",
       "stars": 1347
     },
-    "original_repository_sha": "30813b307c5e88ac6bc6c570063539566f8a31c4",
+    "original_repository_sha": "ff9ef3d478af0c967d1c499232e9cf71aee820bd",
     "enhanced_repository": "enhansome/enhansome-hcloud",
     "enhanced_repository_description": null,
     "title": "Awesome Hetzner Cloud with stars"
