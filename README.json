@@ -12,12 +12,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the project is a .NET library to access the Hetzner Cloud",
+                "homepage": "https://lk-code.github.io/hetzner-cloud-api-net/",
                 "id": 138609066,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-21T23:23:47Z",
+                "open_issues": 9,
                 "owner": "lk-code",
                 "repo": "hetzner-cloud-api-net",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "blazor",
+                  "csharp",
+                  "dotnet",
+                  "hetzner",
+                  "hetzner-cloud",
+                  "maui",
+                  "nuget",
+                  "uwp",
+                  "winui",
+                  "wpf",
+                  "xamarin"
+                ]
               },
               "first_seen": "2026-08-28T21:13:16.563Z"
             },
@@ -28,12 +45,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This C# / .NET Core SDK simplifies interaction with the powerful Hetzner Cloud API, enabling efficient management of resources such as servers, firewalls, networks, SSH keys, and volumes. Optimized for web developers and .NET applications, it streamlines cloud operations, providing the necessary control over your resources in Hetzner Cloud. ",
+                "homepage": "https://hetzner.ljchuello.com/",
                 "id": 712713153,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-06-26T03:39:40Z",
+                "open_issues": 3,
                 "owner": "ljchuello",
                 "repo": "HetznerCloud.API",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "csharp",
+                  "hetzner",
+                  "hetzner-api",
+                  "hetzner-cloud"
+                ]
               },
               "first_seen": "2026-08-28T21:13:16.563Z"
             }
@@ -51,12 +78,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Go library for the Hetzner Cloud API",
+                "homepage": "https://pkg.go.dev/github.com/hetznercloud/hcloud-go/v2/hcloud",
                 "id": 112504288,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:05:50Z",
+                "open_issues": 4,
                 "owner": "hetznercloud",
                 "repo": "hcloud-go",
-                "stars": 509
+                "stars": 509,
+                "topics": [
+                  "api",
+                  "go",
+                  "golang",
+                  "hcloud",
+                  "hetzner",
+                  "hetzner-cloud"
+                ]
               },
               "first_seen": "2026-08-28T21:13:16.563Z"
             },
@@ -67,12 +106,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go client library for Hetzner DNS API.",
+                "homepage": null,
                 "id": 603523584,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-02T10:45:44Z",
+                "open_issues": 0,
                 "owner": "acim",
                 "repo": "hcdns",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:16.563Z"
             },
@@ -83,12 +127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hetzner Golang action completion - the missing part of the Hetzner Golang SDK",
+                "homepage": null,
                 "id": 933306014,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-16T23:21:13Z",
+                "open_issues": 1,
                 "owner": "mrsimonemms",
                 "repo": "hetzner-golang-actions",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:16.563Z"
             }
@@ -106,12 +155,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The purpose of this module is to provide ready to use user-data file for Hetzner cloud servers with multiple network managers.",
+                "homepage": null,
                 "id": 357633612,
                 "language": "HCL",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-23T13:53:26Z",
+                "open_issues": 0,
                 "owner": "wszychta",
                 "repo": "terraform-module.hcloud-user-data",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:16.563Z"
             },
@@ -122,12 +176,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Terraform module to provision the Hetzner CSI Driver within a Kubernetes cluster. ",
+                "homepage": "https://registry.terraform.io/modules/colinwilson/hcloud-csi-driver/kubernetes",
                 "id": 283792267,
                 "language": "HCL",
+                "license": null,
                 "last_commit": "2021-04-24T16:57:53Z",
+                "open_issues": 1,
                 "owner": "colinwilson",
                 "repo": "terraform-kubernetes-hcloud-csi-driver",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "hcloud",
+                  "hetzner",
+                  "hetzner-cloud",
+                  "kubernetes",
+                  "terraform",
+                  "terraform-module"
+                ]
               },
               "first_seen": "2026-08-28T21:13:16.563Z"
             },
@@ -138,12 +204,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A terraform module to quicly generate multiple hetzner hcloud vm servers and supporting services 🚀 ",
+                "homepage": "https://registry.terraform.io/modules/hegerdes/hetzner-node-pool/hcloud/latest",
                 "id": 781385681,
                 "language": "HCL",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-16T20:42:54Z",
+                "open_issues": 0,
                 "owner": "hegerdes",
                 "repo": "terraform-hcloud-hetzner-node-pool",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "hcl",
+                  "hcloud",
+                  "hetzner",
+                  "iac",
+                  "terraform",
+                  "terraform-module"
+                ]
               },
               "first_seen": "2026-08-28T21:13:16.563Z"
             }
@@ -161,12 +239,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library to interact with Hetzner Cloud, following an Observer pattern",
+                "homepage": null,
                 "id": 874971274,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-02-13T22:58:40Z",
+                "open_issues": 24,
                 "owner": "CubitsDev",
                 "repo": "hcloud-java",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:16.563Z"
             }
@@ -184,12 +267,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Node.js module for the Hetzner Cloud API",
+                "homepage": "https://www.npmjs.com/package/hcloud-js",
                 "id": 118930234,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-01-05T16:14:18Z",
+                "open_issues": 15,
                 "owner": "dennisbruner",
                 "repo": "hcloud-js",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "api",
+                  "cloud",
+                  "hetzner",
+                  "node",
+                  "nodejs",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T21:13:16.563Z"
             },
@@ -200,12 +295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 149138454,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2023-04-29T10:07:06Z",
+                "open_issues": 3,
                 "owner": "LeonSpors",
                 "repo": "hcloud-nodejs",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:16.563Z"
             }
@@ -223,12 +323,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hetzner Cloud API Kotlin library",
+                "homepage": null,
                 "id": 881969724,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-07T21:26:53Z",
+                "open_issues": 0,
                 "owner": "sasa-b",
                 "repo": "hetznerkloud",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "hcloud",
+                  "hetzner",
+                  "hetzner-api",
+                  "hetzner-cloud",
+                  "kotlin",
+                  "library"
+                ]
               },
               "first_seen": "2026-08-28T21:13:16.563Z"
             }
@@ -246,12 +358,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PHP SDK for the Hetzner Cloud API",
+                "homepage": null,
                 "id": 119290405,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-21T03:02:24Z",
+                "open_issues": 21,
                 "owner": "LKDevelopment",
                 "repo": "hetzner-cloud-php-sdk",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "cloud",
+                  "hacktoberfest",
+                  "hcloud",
+                  "php-sdk"
+                ]
               },
               "first_seen": "2026-08-28T21:13:16.563Z"
             }
@@ -269,12 +391,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python library for the Hetzner Cloud API",
+                "homepage": null,
                 "id": 162585627,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:19:10Z",
+                "open_issues": 9,
                 "owner": "hetznercloud",
                 "repo": "hcloud-python",
-                "stars": 398
+                "stars": 398,
+                "topics": [
+                  "api",
+                  "hcloud",
+                  "hetzner",
+                  "hetzner-cloud",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T21:13:16.563Z"
             }
@@ -292,12 +425,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native ruby client for HetznerCloud",
+                "homepage": null,
                 "id": 119202594,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2024-05-16T19:40:07Z",
+                "open_issues": 13,
                 "owner": "tonobo",
                 "repo": "hcloud-ruby",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "hcloud",
+                  "hetzner",
+                  "hetzner-cloud"
+                ]
               },
               "first_seen": "2026-08-28T21:13:16.563Z"
             },
@@ -308,12 +450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern object-oriented Ruby wrapper for Hetzner Cloud API",
+                "homepage": "https://floriandejonckheere.github.io/hcloud/",
                 "id": 384486697,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-25T06:29:00Z",
+                "open_issues": 5,
                 "owner": "floriandejonckheere",
                 "repo": "hcloud",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:16.563Z"
             }
@@ -331,12 +478,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial Rust crate for accessing the Hetzner Cloud API",
+                "homepage": null,
                 "id": 267692274,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T21:43:24Z",
+                "open_issues": 3,
                 "owner": "HenningHolmDE",
                 "repo": "hcloud-rust",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "hcloud",
+                  "hetzner",
+                  "hetzner-cloud",
+                  "rust",
+                  "rust-lang"
+                ]
               },
               "first_seen": "2026-08-28T21:13:16.563Z"
             }
@@ -358,12 +518,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",
+            "homepage": "https://kops.sigs.k8s.io/",
             "id": 62091339,
             "language": "Go",
-            "last_commit": "2026-08-28T14:34:06Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:34:22Z",
+            "open_issues": 132,
             "owner": "kubernetes",
             "repo": "kops",
-            "stars": 16670
+            "stars": 16671,
+            "topics": [
+              "cncf",
+              "containers",
+              "go",
+              "kops",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -374,12 +545,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Kubernetes clusters for the hobbyist.",
+            "homepage": null,
             "id": 88660234,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-09-21T14:37:01Z",
+            "open_issues": 9,
             "owner": "hobby-kube",
             "repo": "guide",
-            "stars": 5657
+            "stars": 5657,
+            "topics": [
+              "automation",
+              "cluster",
+              "cost-effective",
+              "devops",
+              "digitalocean",
+              "guide",
+              "hetzner-cloud",
+              "kubernetes",
+              "scaleway",
+              "security",
+              "setup",
+              "small-scale",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -390,12 +580,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!",
+            "homepage": null,
             "id": 390985926,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2026-08-10T07:52:56Z",
+            "open_issues": 13,
             "owner": "mysticaltech",
             "repo": "terraform-hcloud-kube-hetzner",
-            "stars": 3921
+            "stars": 3922,
+            "topics": [
+              "hcloud",
+              "hetzner-cloud",
+              "k3s",
+              "k8s",
+              "kubernetes",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -406,12 +608,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud",
+            "homepage": "https://hetzner-k3s.com/",
             "id": 393666948,
             "language": "Crystal",
+            "license": "MIT",
             "last_commit": "2026-08-25T13:00:37Z",
+            "open_issues": 34,
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3666
+            "stars": 3666,
+            "topics": [
+              "crystal",
+              "crystal-lang",
+              "crystal-language",
+              "devops",
+              "docker",
+              "hetzner",
+              "hetzner-api",
+              "hetzner-cloud",
+              "k3s",
+              "k8s",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -422,12 +641,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free and Self-Hosted  Server Management Tool",
+            "homepage": "https://vitodeploy.com",
             "id": 661276382,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-17T22:23:11Z",
+            "open_issues": 12,
             "owner": "vitodeploy",
             "repo": "vito",
-            "stars": 3218
+            "stars": 3218,
+            "topics": [
+              "deploy",
+              "deployment",
+              "inertiajs",
+              "laravel",
+              "php",
+              "self-hosted",
+              "server",
+              "server-management",
+              "vito"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -438,12 +672,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line interface for Hetzner Cloud",
+            "homepage": null,
             "id": 112504630,
             "language": "Go",
-            "last_commit": "2026-08-28T13:51:40Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:30:55Z",
+            "open_issues": 26,
             "owner": "hetznercloud",
             "repo": "cli",
-            "stars": 1786
+            "stars": 1786,
+            "topics": [
+              "cli",
+              "command-line",
+              "command-line-tool",
+              "commandline-interface",
+              "hcloud",
+              "hetzner",
+              "hetzner-cloud"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -454,12 +701,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  ",
+            "homepage": "https://kubeone.io",
             "id": 155974736,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T07:04:53Z",
+            "open_issues": 104,
             "owner": "kubermatic",
             "repo": "kubeone",
-            "stars": 1525
+            "stars": 1525,
+            "topics": [
+              "cluster-api",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -470,12 +725,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cluster API Provider Hetzner :rocket: The best way to manage Kubernetes clusters on Hetzner, fully declarative, Kubernetes-native and with self-healing capabilities",
+            "homepage": "https://caph.syself.com",
             "id": 399794767,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:01:08Z",
+            "open_issues": 190,
             "owner": "syself",
             "repo": "cluster-api-provider-hetzner",
-            "stars": 1131
+            "stars": 1131,
+            "topics": [
+              "bare-metal",
+              "cloud-native",
+              "cluster-api",
+              "cluster-api-provider-hetzner",
+              "devops",
+              "go",
+              "hcloud",
+              "hetzner",
+              "high-availability",
+              "k8s",
+              "k8s-provider-hetzner",
+              "k8s-sig-cluster-api",
+              "k8s-sig-cluster-lifecycle",
+              "kubernetes",
+              "linux",
+              "operator"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -486,12 +763,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool for provisioning kubernetes clusters on Hetzner Cloud",
+            "homepage": null,
             "id": 118689988,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-25T01:44:51Z",
+            "open_issues": 90,
             "owner": "xetys",
             "repo": "hetzner-kube",
-            "stars": 751
+            "stars": 751,
+            "topics": [
+              "hetzner-cloud",
+              "k8s",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -502,12 +788,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud",
+            "homepage": "https://registry.terraform.io/modules/hcloud-k8s/kubernetes/hcloud",
             "id": 877376363,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2026-08-26T21:15:02Z",
+            "open_issues": 15,
             "owner": "hcloud-k8s",
             "repo": "terraform-hcloud-kubernetes",
-            "stars": 696
+            "stars": 699,
+            "topics": [
+              "cloud",
+              "hcloud",
+              "hetzner",
+              "k8s",
+              "kube",
+              "kubernetes",
+              "linux",
+              "talos",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -518,12 +819,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free, open-source terminal SSH manager and SSH config editor in Rust for macOS and Linux that keeps ~/.ssh/config in sync with 18 cloud providers, monitors live SSH tunnels and manages Docker and Podman containers fleet-wide. Plus scp, Vault SSH certs and an MCP server for AI agents.",
+            "homepage": "https://getpurple.sh",
             "id": 1161891767,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-27T17:22:42Z",
+            "open_issues": 4,
             "owner": "erickochen",
             "repo": "purple",
-            "stars": 660
+            "stars": 660,
+            "topics": [
+              "cli",
+              "cloud-sync",
+              "devops",
+              "docker",
+              "hashicorp-vault",
+              "homelab",
+              "mcp",
+              "podman",
+              "ratatui",
+              "rust",
+              "ssh",
+              "ssh-bookmarks",
+              "ssh-client",
+              "ssh-config",
+              "ssh-config-editor",
+              "ssh-manager",
+              "ssh-tunnel",
+              "terminal",
+              "termius-alternative",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -534,12 +861,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud.",
+            "homepage": "https://registry.terraform.io/modules/hcloud-talos/talos",
             "id": 772815777,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2026-08-27T00:37:41Z",
+            "open_issues": 14,
             "owner": "hcloud-talos",
             "repo": "terraform-hcloud-talos",
-            "stars": 353
+            "stars": 354,
+            "topics": [
+              "hcloud",
+              "hetzner",
+              "hetzner-cloud",
+              "kubernetes",
+              "talos",
+              "talos-linux",
+              "talosctl",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -550,12 +891,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "script to install Debian 12, 13 and Ubuntu 22, 24 LTS with ZFS root on Hetzner VPS",
+            "homepage": null,
             "id": 238147170,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-07-26T09:41:18Z",
+            "open_issues": 13,
             "owner": "terem42",
             "repo": "zfs-hetzner-vm",
-            "stars": 221
+            "stars": 221,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -566,12 +912,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hetzner Cloud - Automatic Snapshots as Backups for more flexibility",
+            "homepage": "https://hub.docker.com/r/fbrettnich/hcloud-snapshot-as-backup",
             "id": 382615960,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-07T20:38:36Z",
+            "open_issues": 3,
             "owner": "fbrettnich",
             "repo": "hcloud-snapshot-as-backup",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "backup",
+              "backup-script",
+              "backups",
+              "cloud",
+              "cron",
+              "docker",
+              "docker-compose",
+              "hacktoberfest",
+              "hcloud",
+              "hetzner",
+              "hetzner-api",
+              "hetzner-cloud",
+              "labels",
+              "python",
+              "snapshot",
+              "snapshots"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -582,12 +950,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickly upload any raw disk images into your Hetzner Cloud projects!",
+            "homepage": "https://apricote.github.io/hcloud-upload-image",
             "id": 793730572,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:54:09Z",
+            "open_issues": 14,
             "owner": "apricote",
             "repo": "hcloud-upload-image",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "cli",
+              "go",
+              "golang",
+              "hcloud",
+              "hcloud-snapshot",
+              "hetzner",
+              "hetzner-cloud"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -598,12 +979,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Private k3s kubernetes terraform installer for Hetzner Cloud",
+            "homepage": "https://identiops.com/projects/k3s/",
             "id": 387512324,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2026-08-26T14:22:32Z",
+            "open_issues": 9,
             "owner": "identiops",
             "repo": "terraform-hcloud-k3s",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "cloud",
+              "cluster",
+              "hcloud",
+              "hetzner",
+              "k3s",
+              "k8s",
+              "kubernetes",
+              "kubernetes-cluster",
+              "terraform",
+              "terraform-module"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -614,12 +1011,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autoscaling Self-Hosted GitHub Actions Runners on Hetzner Cloud.",
+            "homepage": "https://testflows.com",
             "id": 670152309,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-02T16:46:17Z",
+            "open_issues": 16,
             "owner": "testflows",
             "repo": "TestFlows-GitHub-Hetzner-Runners",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "arm64",
+              "cicd",
+              "cost-effective",
+              "devops",
+              "github-actions",
+              "hetzner",
+              "hetzner-cloud",
+              "python",
+              "self-hosted-runners",
+              "x86-64"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -630,12 +1043,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically renew certs and install to destinations",
+            "homepage": null,
             "id": 720551044,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2024-07-29T16:45:15Z",
+            "open_issues": 1,
             "owner": "poundifdef",
             "repo": "certmaster",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "acme-client",
+              "certificate",
+              "dns",
+              "letsencrypt"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -646,12 +1069,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chaos for Clouds",
+            "homepage": "https://ngine-io.github.io/chaotic/",
             "id": 233554418,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T13:42:43Z",
+            "open_issues": 9,
             "owner": "ngine-io",
             "repo": "chaotic",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "chaos-engineering",
+              "chaos-monkey",
+              "cloudscale-ch",
+              "cloudstack",
+              "digital-ocean",
+              "digitalocean",
+              "exoscale",
+              "fault-injection",
+              "hashicorp-nomad",
+              "hetzner-cloud",
+              "proxmox",
+              "vultr"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -662,12 +1103,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A prometheus exporter for the current pricing and costs of your HCloud account",
+            "homepage": null,
             "id": 344850478,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-17T04:42:36Z",
+            "open_issues": 1,
             "owner": "jangraefen",
             "repo": "hcloud-pricing-exporter",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "hcloud",
+              "hetzner",
+              "hetzner-cloud",
+              "prometheus",
+              "prometheus-exporter",
+              "prometheus-metrics"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -678,12 +1131,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight CLI tool to programmatically rescale your Hetzner virtual server daily to optimize your budget spending",
+            "homepage": null,
             "id": 428463897,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-02-01T07:07:43Z",
+            "open_issues": 2,
             "owner": "jonamat",
             "repo": "hetzner-rescaler",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "hetzner",
+              "hetzner-api",
+              "hetzner-cloud",
+              "hetzner-robot-api"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -694,12 +1157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hetzner Cloud - Floating IP and Private IP switchover with keepalived",
+            "homepage": null,
             "id": 157938814,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-11-17T10:56:30Z",
+            "open_issues": 0,
             "owner": "byhlz",
             "repo": "hcloud-failover-keepalived",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -710,12 +1178,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern Prometheus exporter for Hetzner Storage Box with comprehensive metrics",
+            "homepage": null,
             "id": 1111835873,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-23T20:15:45Z",
+            "open_issues": 2,
             "owner": "crstian19",
             "repo": "prometheus-storagebox-exporter",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -726,12 +1199,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exports metrics from Hetzner Load Balancer for consumption by Prometheus",
+            "homepage": null,
             "id": 305151295,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-13T10:38:52Z",
+            "open_issues": 0,
             "owner": "wacken89",
             "repo": "hetzner-load-balancer-prometheus-exporter",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -742,12 +1220,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a CLI tool to quickly create and manage Kubernetes clusters in Hetzner Cloud using the lightweight Kubernetes distribution k3s from Rancher.",
+            "homepage": null,
             "id": 527556564,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-11-10T14:44:14Z",
+            "open_issues": 1,
             "owner": "janosmiko",
             "repo": "hetzner-k3s",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "autoscaling",
+              "golang",
+              "hcloud",
+              "hetzner",
+              "hetzner-cloud",
+              "kubernetes",
+              "kubernetes-cluster"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -758,12 +1249,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A discord bot to get periodically updates of the health status of your hetzner cloud machines with several commands such as !servers to check the workload metrics.",
+            "homepage": "https://www.producthunt.com/products/healthznerbot",
             "id": 307964433,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T19:49:09Z",
+            "open_issues": 15,
             "owner": "raphaelbernhart",
             "repo": "healthznerbot",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "cloud",
+              "cloud-machines",
+              "devops",
+              "discord",
+              "discord-bot",
+              "health-status",
+              "hetzner",
+              "hetzner-cloud-machines",
+              "server",
+              "vps"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -774,12 +1281,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command Line Interface for Administering Twingate",
+            "homepage": null,
             "id": 446534424,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-30T14:54:14Z",
+            "open_issues": 10,
             "owner": "Twingate-Labs",
             "repo": "tg-cli",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "cloud",
+              "deno",
+              "javascript",
+              "twingate"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -790,12 +1307,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub action to install the Hetzner Cloud CLI.",
+            "homepage": null,
             "id": 742045003,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T20:17:00Z",
+            "open_issues": 3,
             "owner": "hetznercloud",
             "repo": "setup-hcloud",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "actions",
+              "hcloud",
+              "hetzner",
+              "hetzner-cloud",
+              "setup-actions"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -806,12 +1334,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ansible Role for Hetzner Cloud hcloud ",
+            "homepage": "https://galaxy.ansible.com/ngine_io/hcloud",
             "id": 486211387,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-20T23:02:33Z",
+            "open_issues": 2,
             "owner": "ngine-io",
             "repo": "ansible-role-hcloud",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "ansible",
+              "ansible-role",
+              "ansible-roles",
+              "cloud",
+              "hcloud",
+              "hetzner",
+              "hetzner-cloud"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -822,12 +1363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terraform Module for deploying a Kubernetes Cluster to Hetzner Cloud.",
+            "homepage": null,
             "id": 598118192,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2023-02-21T08:45:15Z",
+            "open_issues": 0,
             "owner": "Stupremee",
             "repo": "terraform-hcloud-hks",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -838,12 +1384,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight macOS menu bar app for managing Hetzner Cloud resources",
+            "homepage": null,
             "id": 1155534543,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-06-18T14:24:46Z",
+            "open_issues": 0,
             "owner": "geberl",
             "repo": "hcloud-menubar",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "hetzner-cloud",
+              "macos",
+              "macos-menubar",
+              "menubar",
+              "swift",
+              "swiftui",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -854,12 +1413,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keepalived for Hetzner",
+            "homepage": null,
             "id": 330392351,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-04-25T15:11:20Z",
+            "open_issues": 0,
             "owner": "schemen",
             "repo": "kubernetes-hetzner-keepalived",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -870,12 +1434,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cli tool to self destruct a hetzner cloud server",
+            "homepage": null,
             "id": 565239435,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-05T16:36:32Z",
+            "open_issues": 2,
             "owner": "worldworm",
             "repo": "hcloud-selfdestruct",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "hcloud",
+              "hetzner-api",
+              "hetzner-cloud"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -886,12 +1459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Heztner Cloud K8s Agent",
+            "homepage": null,
             "id": 297169961,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-05-14T23:50:00Z",
+            "open_issues": 1,
             "owner": "BlueBambooStudios",
             "repo": "hcloud-connect",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -902,12 +1480,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "hicloud - a CLI-Console for managing Hetzner Cloud resources with autocompletion",
+            "homepage": null,
             "id": 980923093,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-19T20:06:19Z",
+            "open_issues": 0,
             "owner": "rtulke",
             "repo": "hicloud",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "cli",
+              "console",
+              "hetzner",
+              "hetzner-api",
+              "hetzner-cloud",
+              "hetzner-cloud-servers",
+              "hetzner-cloud-volumes",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -918,12 +1511,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remove all the resources from an Hetzner account ",
+            "homepage": null,
             "id": 901871999,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T02:47:24Z",
+            "open_issues": 1,
             "owner": "cgroschupp",
             "repo": "hetzner-nuke",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "hetzner",
+              "libnuke"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -934,12 +1535,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 328437111,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-01-10T17:18:04Z",
+            "open_issues": 0,
             "owner": "byhlz",
             "repo": "hcloud_assign_ip",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -950,12 +1556,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hetzner bootimages synced to GitHub Container Registry as multi-arch images. Use them as Docker base images or pull on a Hetzner server in rescue mode with container-registry.sh (no Docker daemon).",
+            "homepage": null,
             "id": 1168271379,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-23T04:38:55Z",
+            "open_issues": 0,
             "owner": "mystack-cloud",
             "repo": "hetzner-images",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "boot-image",
+              "container-image",
+              "docker",
+              "hetzner"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         }
@@ -972,12 +1588,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Prometheus monitoring system and time series database.",
+            "homepage": "https://prometheus.io/",
             "id": 6838921,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:51:00Z",
+            "open_issues": 879,
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65878
+            "stars": 65878,
+            "topics": [
+              "alerting",
+              "graphing",
+              "hacktoberfest",
+              "metrics",
+              "monitoring",
+              "prometheus",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -988,12 +1617,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set up a personal VPN in the cloud",
+            "homepage": "https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/",
             "id": 58842707,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T21:45:41Z",
+            "open_issues": 75,
             "owner": "trailofbits",
             "repo": "algo",
-            "stars": 30367
+            "stars": 30367,
+            "topics": [
+              "ansible",
+              "encryption",
+              "ikev2",
+              "ipsec",
+              "security",
+              "ssh-tunnel",
+              "strongswan",
+              "vpn",
+              "vpn-client",
+              "vpn-server",
+              "wireguard"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1004,12 +1650,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autoscaling components for Kubernetes",
+            "homepage": null,
             "id": 87990209,
             "language": "Go",
-            "last_commit": "2026-08-28T19:04:05Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:32:04Z",
+            "open_issues": 327,
             "owner": "kubernetes",
             "repo": "autoscaler",
-            "stars": 8952
+            "stars": 8953,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1020,12 +1671,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes cloud-controller-manager for Hetzner Cloud",
+            "homepage": null,
             "id": 118783793,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:45:50Z",
+            "open_issues": 37,
             "owner": "hetznercloud",
             "repo": "hcloud-cloud-controller-manager",
-            "stars": 926
+            "stars": 926,
+            "topics": [
+              "hcloud",
+              "hetzner",
+              "hetzner-cloud",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1036,12 +1697,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes Container Storage Interface driver for Hetzner Cloud Volumes",
+            "homepage": null,
             "id": 162441106,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T22:30:13Z",
+            "open_issues": 22,
             "owner": "hetznercloud",
             "repo": "csi-driver",
-            "stars": 795
+            "stars": 795,
+            "topics": [
+              "csi",
+              "csi-driver",
+              "csi-plugin",
+              "hetzner-cloud",
+              "hetzner-cloud-volumes",
+              "kubernetes",
+              "kubernetes-volumes"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1052,12 +1726,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terraform Hetzner Cloud provider",
+            "homepage": "https://registry.terraform.io/providers/hetznercloud/hcloud/latest",
             "id": 136213126,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T08:12:18Z",
+            "open_issues": 58,
             "owner": "hetznercloud",
             "repo": "terraform-provider-hcloud",
-            "stars": 736
+            "stars": 736,
+            "topics": [
+              "hetzner-cloud",
+              "terraform",
+              "terraform-provider"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1068,12 +1751,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker machine driver for the new hetzner cloud API",
+            "homepage": "https://jonasprogrammer.github.io/docker-machine-driver-hetzner/",
             "id": 109452425,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-22T18:04:34Z",
+            "open_issues": 14,
             "owner": "JonasProgrammer",
             "repo": "docker-machine-driver-hetzner",
-            "stars": 438
+            "stars": 438,
+            "topics": [
+              "docker",
+              "docker-machine",
+              "driver",
+              "hetzner",
+              "machine"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1084,12 +1778,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Rancher UI driver for the Hetzner Cloud docker driver.",
+            "homepage": "https://mxschmitt.github.io/ui-driver-hetzner",
             "id": 119262747,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-27T01:30:05Z",
+            "open_issues": 23,
             "owner": "mxschmitt",
             "repo": "ui-driver-hetzner",
-            "stars": 262
+            "stars": 262,
+            "topics": [
+              "docker",
+              "hcloud",
+              "hetzner",
+              "hetzner-cloud",
+              "rancher"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1100,12 +1805,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖥️ On-demand self-hosted GitHub Actions Runner on Hetzner Cloud",
+            "homepage": "https://github.com/marketplace/actions/self-hosted-github-actions-runner-on-hetzner-cloud",
             "id": 908265812,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-22T06:21:44Z",
+            "open_issues": 6,
             "owner": "Cyclenerd",
             "repo": "hcloud-github-runner",
-            "stars": 179
+            "stars": 179,
+            "topics": [
+              "fedora",
+              "github-actions",
+              "github-runner",
+              "github-runners",
+              "github-self-hosted-runner",
+              "hetzner",
+              "hetzner-cloud",
+              "podman",
+              "rocky-linux",
+              "rockylinux",
+              "self-hosted",
+              "self-hosted-runner",
+              "self-hosted-runners"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1116,12 +1840,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection to manage resources on Hetzner Cloud",
+            "homepage": "https://galaxy.ansible.com/ui/repo/published/hetzner/hcloud",
             "id": 244995547,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-19T19:01:49Z",
+            "open_issues": 23,
             "owner": "ansible-collections",
             "repo": "hetzner.hcloud",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "ansible-collection",
+              "hcloud",
+              "hetzner",
+              "hetzner-cloud"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1132,12 +1866,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes controller to (re-)assign floating IPs on hetzner cloud instances",
+            "homepage": null,
             "id": 181159059,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T02:15:01Z",
+            "open_issues": 3,
             "owner": "cbeneke",
             "repo": "hcloud-fip-controller",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1148,12 +1887,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Model Context Protocol (MCP) server for interacting with the Hetzner Cloud API. This server allows language models to manage Hetzner Cloud resources through structured functions.",
+            "homepage": null,
             "id": 962242346,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-10T07:58:13Z",
+            "open_issues": 3,
             "owner": "dkruyt",
             "repo": "mcp-hetzner",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1164,12 +1908,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker Volume Plugin for accessing Hetzner Cloud Volumes",
+            "homepage": null,
             "id": 154749904,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T09:01:49Z",
+            "open_issues": 8,
             "owner": "costela",
             "repo": "docker-volume-hetzner",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "cluster",
+              "docker",
+              "docker-swarm",
+              "docker-volume-plugin",
+              "hetzner",
+              "hetzner-cloud",
+              "hetzner-cloud-volumes"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1180,12 +1937,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ServerManagerBot is a Telegram bot for managing Hetzner servers. It allows admins to control server actions.",
+            "homepage": "https://t.me/Erfjabs",
             "id": 855953053,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-21T10:38:44Z",
+            "open_issues": 1,
             "owner": "erfjab",
             "repo": "ServerManagerBot",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1196,12 +1958,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cert-manager ACME webhook for Hetzner",
+            "homepage": null,
             "id": 1067193644,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T07:54:50Z",
+            "open_issues": 4,
             "owner": "hetzner",
             "repo": "cert-manager-webhook-hetzner",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "cert-manager",
+              "cert-manager-webhook",
+              "dns",
+              "hetzner",
+              "hetzner-cloud",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1212,12 +1986,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "k8s controller for Hetzner Cloud floating IPs ",
+            "homepage": null,
             "id": 219302145,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-05T04:17:59Z",
+            "open_issues": 9,
             "owner": "costela",
             "repo": "hcloud-ip-floater",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "failover",
+              "floating-ip",
+              "go",
+              "golang",
+              "hcloud",
+              "hetzner",
+              "k8s",
+              "k8s-controller",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1228,12 +2017,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An dynamic inventory script for hetzner cloud",
+            "homepage": null,
             "id": 121695132,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-03-05T09:43:35Z",
+            "open_issues": 0,
             "owner": "hg8496",
             "repo": "ansible-hcloud-inventory",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "ansible",
+              "ansible-inventory",
+              "hcloud"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1244,12 +2042,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automate deploying Linux bare-metal servers in Hetzner using Ansible and Hetzner Robot API.",
+            "homepage": "https://blog.palark.com/ansible-hetzner-bare-metal-linux/",
             "id": 953986043,
             "language": "Jinja",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-08T14:33:57Z",
+            "open_issues": 0,
             "owner": "palark",
             "repo": "hetzner-bare-metal-ansible",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "ansible",
+              "bare-metal",
+              "hetzner",
+              "hetzner-robot",
+              "infrastructure-as-code"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1260,12 +2069,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Packer plugin for Hetzner Cloud Builder",
+            "homepage": "https://developer.hashicorp.com/packer/integrations/hetznercloud/hcloud",
             "id": 358037005,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T08:11:03Z",
+            "open_issues": 4,
             "owner": "hetznercloud",
             "repo": "packer-plugin-hcloud",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "hcloud",
+              "packer",
+              "packer-plugin"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1276,12 +2094,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hetzner LoadBalancer for bare-metal clusters ",
+            "homepage": null,
             "id": 889399225,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-04-23T11:33:07Z",
+            "open_issues": 3,
             "owner": "Treetscom",
             "repo": "robotlb",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1292,12 +2115,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autoscaling for Clouds",
+            "homepage": "https://ngine-io.github.io/scalr/",
             "id": 274773607,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T20:19:36Z",
+            "open_issues": 3,
             "owner": "ngine-io",
             "repo": "scalr",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "autoscaling",
+              "cloudscale-ch",
+              "cloudstack",
+              "digitalocean",
+              "exoscale",
+              "hetzner-cloud",
+              "pcextreme",
+              "vultr"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1308,12 +2145,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DevPod on Hetzner",
+            "homepage": "https://devpod.sh/docs/managing-providers/add-provider#community-providers",
             "id": 651038175,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-26T19:06:29Z",
+            "open_issues": 3,
             "owner": "mrsimonemms",
             "repo": "devpod-provider-hetzner",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "cloud-development",
+              "cloud-development-environment",
+              "cloud-development-environments",
+              "codespaces",
+              "devpod",
+              "devpod-provider",
+              "gitpod",
+              "hetzner",
+              "remote-development"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1324,12 +2176,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Terraform script to deploy a highly available Rancher installation on Hetzner Cloud",
+            "homepage": null,
             "id": 312790447,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2022-06-18T20:08:58Z",
+            "open_issues": 8,
             "owner": "alexzimmer96",
             "repo": "rancher-hcloud",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "hetzner-cloud",
+              "kubernetes",
+              "rancher",
+              "rke",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1340,12 +2203,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Terraform provider for Hetzner DNS",
+            "homepage": "https://registry.terraform.io/providers/germanbrew/hetznerdns/latest",
             "id": 805554749,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2025-10-24T18:13:57Z",
+            "open_issues": 1,
             "owner": "germanbrew",
             "repo": "terraform-provider-hetznerdns",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "dns",
+              "hetzner",
+              "hetzner-dns",
+              "terraform",
+              "terraform-provider"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1356,12 +2230,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Metrics for your Hetzner Cloud Servers and Load Balancers in Grafana.",
+            "homepage": "https://grafana.com/grafana/plugins/apricote-hcloud-datasource/",
             "id": 733241015,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-13T08:27:02Z",
+            "open_issues": 6,
             "owner": "apricote",
             "repo": "grafana-hcloud-datasource",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "grafana",
+              "grafana-datasource",
+              "grafana-plugin",
+              "hcloud",
+              "hetzner-cloud"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1372,12 +2257,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram bot for managing Hetzner cloud servers.",
+            "homepage": null,
             "id": 324560115,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-03-30T15:51:09Z",
+            "open_issues": 1,
             "owner": "Navid2zp",
             "repo": "hcloud-tg",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "cloud",
+              "hcloud-tg",
+              "hetzner",
+              "hetzner-api",
+              "hetzner-cloud",
+              "hetzner-cloud-servers",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1388,12 +2286,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deploy a Hetzner Cloud Server from a GitHub Action.",
+            "homepage": null,
             "id": 321357276,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-19T15:40:38Z",
+            "open_issues": 7,
             "owner": "TimDaub",
             "repo": "hetzner-cloud-deploy-server-action",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "actions",
+              "cloud",
+              "continous",
+              "github",
+              "hetzner",
+              "integration"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1404,12 +2314,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hetzner Cloud auto-provisioning for FreeBSD",
+            "homepage": null,
             "id": 242172104,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-12-30T14:05:25Z",
+            "open_issues": 1,
             "owner": "paulc",
             "repo": "hcloud-freebsd",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "cloud-config",
+              "freebsd",
+              "hetzner",
+              "hetzner-cloud"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1420,12 +2340,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A molecule driver for Hetzner Cloud",
+            "homepage": "https://ansible.readthedocs.io/projects/molecule/",
             "id": 203981893,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-17T12:11:56Z",
+            "open_issues": 4,
             "owner": "ansible-community",
             "repo": "molecule-hetznercloud",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "ansible",
+              "hetzner",
+              "hetzner-cloud",
+              "molecule",
+              "molecule-driver"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1436,12 +2367,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo contains a Terraform template for Coder https://github.com/coder/coder to setup a cloud instance as dev environment with or without vscode",
+            "homepage": null,
             "id": 504126770,
             "language": "HCL",
+            "license": "GPL-3.0",
             "last_commit": "2024-04-27T08:42:51Z",
+            "open_issues": 3,
             "owner": "ntimo",
             "repo": "coder-hetzner-cloud-template",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1452,12 +2388,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hetzner cloud integration for Jenkins",
+            "homepage": "https://plugins.jenkins.io/hetzner-cloud/",
             "id": 409843633,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T06:20:08Z",
+            "open_issues": 4,
             "owner": "jenkinsci",
             "repo": "hetzner-cloud-plugin",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "agent",
+              "cloud",
+              "cloud-integration",
+              "hetzner-cloud",
+              "jenkins-agent",
+              "jenkins-plugin"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1468,12 +2416,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "External DNS Webhook for Hetzner",
+            "homepage": null,
             "id": 1067194329,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T07:53:33Z",
+            "open_issues": 2,
             "owner": "hetzner",
             "repo": "external-dns-hetzner-webhook",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "dns",
+              "external-dns",
+              "hetzner",
+              "hetzner-cloud",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1484,12 +2443,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gardener Extension for Hetzner Cloud provider",
+            "homepage": null,
             "id": 334118746,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T23:45:25Z",
+            "open_issues": 22,
             "owner": "23technologies",
             "repo": "gardener-extension-provider-hcloud",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1500,12 +2464,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Karpenter cloud provider for Hetzner Cloud",
+            "homepage": "https://paperclip.inc",
             "id": 1250226618,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T05:04:49Z",
+            "open_issues": 6,
             "owner": "paperclipinc",
             "repo": "karpenter-provider-hetzner",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "autoscaling",
+              "cloud-provider",
+              "golang",
+              "hetzner",
+              "hetzner-cloud",
+              "karpenter",
+              "kubernetes",
+              "node-autoscaling",
+              "talos"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1516,12 +2495,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Extension for paymenter.org to order Hetzner Cloud VPS via Hetzner Cloud API.",
+            "homepage": "https://market.paymenter.org/extensions/27/HetznerCloud",
             "id": 725665229,
             "language": "Blade",
+            "license": "MIT",
             "last_commit": "2025-08-14T16:31:42Z",
+            "open_issues": 2,
             "owner": "ha1fdan",
             "repo": "HetznerCloudExtension",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "hetzner-cloud",
+              "hetzner-cloud-api",
+              "open-source",
+              "paymenter"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1532,12 +2521,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Crossplane provider for Hetzner Cloud",
+            "homepage": null,
             "id": 1136745443,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-02T18:59:00Z",
+            "open_issues": 2,
             "owner": "miaits",
             "repo": "provider-hetzner",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "crossplane-provider",
+              "hetzner-cloud"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1548,12 +2545,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A proxy server for updating DNS records on Hetzner DNS using the DynDNS protocol",
+            "homepage": null,
             "id": 689434180,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-01-15T19:34:42Z",
+            "open_issues": 1,
             "owner": "marvinruder",
             "repo": "hetzner-dyndns",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1564,12 +2566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A libcluster clustering strategy via Hetzner Cloud Server Labels.",
+            "homepage": null,
             "id": 288244503,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2024-02-18T19:36:32Z",
+            "open_issues": 2,
             "owner": "EightSQ",
             "repo": "libcluster_hcloud",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1580,12 +2587,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, self-hosted web application to manage multiple Hetzner Cloud servers and projects from a single, clean interface. Built with Python, Flask, and Tailwind CSS, and fully containerized with Docker. 🐳🐍",
+            "homepage": null,
             "id": 1005204106,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-05T04:41:24Z",
+            "open_issues": 0,
             "owner": "alfiosalanitri",
             "repo": "hetzner-server-manager",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "docker",
+              "flask",
+              "hetzner-cloud",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1596,12 +2613,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom GitLab Runner Adapter for Running Jobs within Hetzner Cloud servers. Repository mirrored from GitLab. 🦊",
+            "homepage": "https://gitlab.com/bonsai-oss/tools/hetzner-machine-provider",
             "id": 622443891,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2025-07-11T09:49:20Z",
+            "open_issues": 0,
             "owner": "bonsai-oss",
             "repo": "hetzner-machine-provider",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "ci-cd",
+              "cloud",
+              "gitlab-ci",
+              "gitlab-runner",
+              "hcloud",
+              "hetzner",
+              "hetzner-cloud"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1612,12 +2642,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Terraform module to deploy the Hetzner Cloud Controller Manager on a Kubernetes cluster.",
+            "homepage": "https://registry.terraform.io/modules/colinwilson/hcloud-controller-manager/kubernetes",
             "id": 273111934,
             "language": "HCL",
+            "license": null,
             "last_commit": "2021-06-09T08:51:21Z",
+            "open_issues": 0,
             "owner": "colinwilson",
             "repo": "terraform-kubernetes-hcloud-controller-manager",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "hcloud",
+              "hetzner",
+              "hetzner-cloud",
+              "kubernetes",
+              "terraform",
+              "terraform-module"
+            ]
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1628,12 +2670,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " This stand-alone application collects information from Hetzner projects in order to automatically synchronize the farms and virtual machines in iTop.  iTop is a web based open source tool for IT service management tasks by Combodo",
+            "homepage": null,
             "id": 204938392,
             "language": "PHP",
+            "license": null,
             "last_commit": "2019-09-25T10:45:29Z",
+            "open_issues": 0,
             "owner": "itomig-de",
             "repo": "itomig-hetzner-collector",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1644,12 +2691,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Go Model Context Protocol (MCP) server for interacting with the Hetzner Cloud API.",
+            "homepage": null,
             "id": 978689726,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-08-25T12:42:29Z",
+            "open_issues": 1,
             "owner": "MahdadGhasemian",
             "repo": "mcp-hetzner-go",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1660,12 +2712,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1145404414,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-29T19:43:45Z",
+            "open_issues": 0,
             "owner": "Pixelate1",
             "repo": "Hetzner_Cloudflare_Telegram_bot",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1676,12 +2733,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terraform code to seamlessly integrate a RouterOS router into a Hetzner Cloud network.",
+            "homepage": null,
             "id": 312692884,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2020-11-16T22:16:04Z",
+            "open_issues": 0,
             "owner": "selfscrum",
             "repo": "terraform-hcloud-routeros-router",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         },
@@ -1692,12 +2754,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Configures a Hetzner server with an RouterOS Router.",
+            "homepage": null,
             "id": 312693676,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2020-11-13T22:05:45Z",
+            "open_issues": 0,
             "owner": "selfscrum",
             "repo": "terraform-hcloud-routeros-router-configuration",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:16.563Z"
         }
@@ -1706,15 +2773,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:13:16.563Z",
+    "last_updated": "2026-08-29T04:32:24.210Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome libraries, tools, and integrations for Hetzner Cloud",
+      "homepage": null,
       "id": 120596048,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-28T10:39:22Z",
+      "open_issues": 10,
       "owner": "hetznercloud",
       "repo": "awesome-hcloud",
-      "stars": 1347
+      "stars": 1347,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "hetzner",
+        "hetzner-cloud"
+      ]
     },
     "original_repository_sha": "ff9ef3d478af0c967d1c499232e9cf71aee820bd",
     "enhanced_repository": "enhansome/enhansome-hcloud",
