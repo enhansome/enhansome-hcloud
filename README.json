@@ -74,7 +74,7 @@
             {
               "node_type": "item",
               "title": "hcloud-go — Package hcloud is a library for the Hetzner Cloud API.",
-              "description": null,
+              "description": "hetznercloud/hcloud-go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -87,7 +87,7 @@
                 "open_issues": 6,
                 "owner": "hetznercloud",
                 "repo": "hcloud-go",
-                "stars": 511,
+                "stars": 512,
                 "topics": [
                   "api",
                   "go",
@@ -387,7 +387,7 @@
             {
               "node_type": "item",
               "title": "hcloud-python — hcloud-python is a library for the Hetzner Cloud API.",
-              "description": null,
+              "description": "hetznercloud/hcloud-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -514,7 +514,7 @@
         {
           "node_type": "item",
           "title": "Prometheus Service Discovery — A service discovery build into Prometheus to easily discover Hetzner servers (Cloud & Dedicated)",
-          "description": null,
+          "description": "prometheus/prometheus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -524,10 +524,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T14:46:17Z",
-            "open_issues": 936,
+            "open_issues": 937,
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 66335,
+            "stars": 66344,
             "topics": [
               "alerting",
               "graphing",
@@ -543,7 +543,7 @@
         {
           "node_type": "item",
           "title": "Kubernetes Cluster Autoscaler — A k8s component that automatically adjusts the size of a Kubernetes Cluster so that all pods have a place to run and there are no unneeded nodes.",
-          "description": null,
+          "description": "kubernetes/autoscaler",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -553,7 +553,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T18:33:25Z",
-            "open_issues": 329,
+            "open_issues": 330,
             "owner": "kubernetes",
             "repo": "autoscaler",
             "stars": 8984,
@@ -564,7 +564,7 @@
         {
           "node_type": "item",
           "title": "hcloud cli — hcloud is a command-line interface for interacting with Hetzner Cloud.",
-          "description": null,
+          "description": "hetznercloud/cli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -577,7 +577,7 @@
             "open_issues": 25,
             "owner": "hetznercloud",
             "repo": "cli",
-            "stars": 1824,
+            "stars": 1825,
             "topics": [
               "cli",
               "command-line",
@@ -593,7 +593,7 @@
         {
           "node_type": "item",
           "title": "hcloud-cloud-controller-manager — Kubernetes cloud-controller-manager for Hetzner Cloud",
-          "description": null,
+          "description": "hetznercloud/hcloud-cloud-controller-manager",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -602,8 +602,8 @@
             "id": 118783793,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T07:26:10Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-02T17:43:31Z",
+            "open_issues": 36,
             "owner": "hetznercloud",
             "repo": "hcloud-cloud-controller-manager",
             "stars": 931,
@@ -619,7 +619,7 @@
         {
           "node_type": "item",
           "title": "hcloud-csi — Container Storage Interface driver for Hetzner Cloud",
-          "description": null,
+          "description": "hetznercloud/csi-driver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -648,7 +648,7 @@
         {
           "node_type": "item",
           "title": "Terraform Provider — Official Hetzner Cloud Terraform Provider",
-          "description": null,
+          "description": "hetznercloud/terraform-provider-hcloud",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -657,8 +657,8 @@
             "id": 136213126,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-29T16:51:09Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-02T18:33:07Z",
+            "open_issues": 60,
             "owner": "hetznercloud",
             "repo": "terraform-provider-hcloud",
             "stars": 740,
@@ -673,7 +673,7 @@
         {
           "node_type": "item",
           "title": "Hetzner Cloud Ansible Collection — Ansible Collection for Hetzner Cloud. Part of Ansible Community Distribution (ACD).",
-          "description": null,
+          "description": "ansible-collections/hetzner.hcloud",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -682,8 +682,8 @@
             "id": 244995547,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T15:38:16Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-02T18:17:04Z",
+            "open_issues": 18,
             "owner": "ansible-collections",
             "repo": "hetzner.hcloud",
             "stars": 153,
@@ -699,7 +699,7 @@
         {
           "node_type": "item",
           "title": "cert-manager Webhook Hetzner — This webhook provides integration between cert-manager and the Hetzner DNS API to handle DNS-01 challenges.",
-          "description": null,
+          "description": "hetzner/cert-manager-webhook-hetzner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -708,8 +708,8 @@
             "id": 1067193644,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T10:24:48Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-02T16:40:43Z",
+            "open_issues": 8,
             "owner": "hetzner",
             "repo": "cert-manager-webhook-hetzner",
             "stars": 74,
@@ -727,7 +727,7 @@
         {
           "node_type": "item",
           "title": "Hetzner Cloud Packer Builder — An official Packer.io Builder for Hetzner Cloud",
-          "description": null,
+          "description": "hetznercloud/packer-plugin-hcloud",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -736,7 +736,7 @@
             "id": 358037005,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-29T14:14:13Z",
+            "last_commit": "2026-10-02T16:38:47Z",
             "open_issues": 6,
             "owner": "hetznercloud",
             "repo": "packer-plugin-hcloud",
@@ -752,7 +752,7 @@
         {
           "node_type": "item",
           "title": "setup-hcloud — GitHub action to install the Hetzner Cloud CLI.",
-          "description": null,
+          "description": "hetznercloud/setup-hcloud",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -779,7 +779,7 @@
         {
           "node_type": "item",
           "title": "Molecule driver for Hetzner Cloud — A molecule driver allowing you to use on-demand Hetzner Cloud servers for your tests.",
-          "description": null,
+          "description": "ansible-community/molecule-hetznercloud",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -806,7 +806,7 @@
         {
           "node_type": "item",
           "title": "External DNS Hetzner Webhook — This webhook provides integration between External DNS and the Hetzner DNS API to manage records automatically.",
-          "description": null,
+          "description": "hetzner/external-dns-hetzner-webhook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -815,8 +815,8 @@
             "id": 1067194329,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T08:42:12Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-02T16:38:21Z",
+            "open_issues": 10,
             "owner": "hetzner",
             "repo": "external-dns-hetzner-webhook",
             "stars": 27,
@@ -848,11 +848,11 @@
             "id": 62091339,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T11:19:22Z",
+            "last_commit": "2026-10-02T18:57:20Z",
             "open_issues": 129,
             "owner": "kubernetes",
             "repo": "kops",
-            "stars": 16684,
+            "stars": 16685,
             "topics": [
               "cncf",
               "containers",
@@ -879,7 +879,7 @@
             "open_issues": 35,
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3694,
+            "stars": 3693,
             "topics": [
               "crystal",
               "crystal-lang",
@@ -899,7 +899,7 @@
         {
           "node_type": "item",
           "title": "hcloud cli — hcloud is a command-line interface for interacting with Hetzner Cloud.",
-          "description": null,
+          "description": "hetznercloud/cli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -912,7 +912,7 @@
             "open_issues": 25,
             "owner": "hetznercloud",
             "repo": "cli",
-            "stars": 1824,
+            "stars": 1825,
             "topics": [
               "cli",
               "command-line",
@@ -966,7 +966,7 @@
             "open_issues": 5,
             "owner": "erickochen",
             "repo": "purple",
-            "stars": 719,
+            "stars": 720,
             "topics": [
               "cli",
               "cloud-sync",
@@ -1025,11 +1025,11 @@
             "id": 793730572,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-25T03:15:01Z",
+            "last_commit": "2026-10-02T16:55:02Z",
             "open_issues": 15,
             "owner": "apricote",
             "repo": "hcloud-upload-image",
-            "stars": 160,
+            "stars": 161,
             "topics": [
               "cli",
               "go",
@@ -1126,7 +1126,7 @@
         {
           "node_type": "item",
           "title": "setup-hcloud — GitHub action to install the Hetzner Cloud CLI.",
-          "description": null,
+          "description": "hetznercloud/setup-hcloud",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1218,8 +1218,8 @@
             "id": 901871999,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T14:57:08Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-02T17:16:06Z",
+            "open_issues": 1,
             "owner": "cgroschupp",
             "repo": "hetzner-nuke",
             "stars": 3,
@@ -1324,7 +1324,7 @@
         {
           "node_type": "item",
           "title": "Terraform Provider — Official Hetzner Cloud Terraform Provider",
-          "description": null,
+          "description": "hetznercloud/terraform-provider-hcloud",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1333,8 +1333,8 @@
             "id": 136213126,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-29T16:51:09Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-02T18:33:07Z",
+            "open_issues": 60,
             "owner": "hetznercloud",
             "repo": "terraform-provider-hcloud",
             "stars": 740,
@@ -1362,7 +1362,7 @@
             "open_issues": 10,
             "owner": "hcloud-k8s",
             "repo": "terraform-hcloud-kubernetes",
-            "stars": 710,
+            "stars": 711,
             "topics": [
               "cloud",
               "hcloud",
@@ -1647,7 +1647,7 @@
         {
           "node_type": "item",
           "title": "Hetzner Cloud Ansible Collection — Ansible Collection for Hetzner Cloud. Part of Ansible Community Distribution (ACD).",
-          "description": null,
+          "description": "ansible-collections/hetzner.hcloud",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1656,8 +1656,8 @@
             "id": 244995547,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T15:38:16Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-02T18:17:04Z",
+            "open_issues": 18,
             "owner": "ansible-collections",
             "repo": "hetzner.hcloud",
             "stars": 153,
@@ -1725,7 +1725,7 @@
         {
           "node_type": "item",
           "title": "Molecule driver for Hetzner Cloud — A molecule driver allowing you to use on-demand Hetzner Cloud servers for your tests.",
-          "description": null,
+          "description": "ansible-community/molecule-hetznercloud",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1796,11 +1796,11 @@
             "id": 62091339,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T11:19:22Z",
+            "last_commit": "2026-10-02T18:57:20Z",
             "open_issues": 129,
             "owner": "kubernetes",
             "repo": "kops",
-            "stars": 16684,
+            "stars": 16685,
             "topics": [
               "cncf",
               "containers",
@@ -1814,7 +1814,7 @@
         {
           "node_type": "item",
           "title": "Kubernetes Cluster Autoscaler — A k8s component that automatically adjusts the size of a Kubernetes Cluster so that all pods have a place to run and there are no unneeded nodes.",
-          "description": null,
+          "description": "kubernetes/autoscaler",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1824,7 +1824,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T18:33:25Z",
-            "open_issues": 329,
+            "open_issues": 330,
             "owner": "kubernetes",
             "repo": "autoscaler",
             "stars": 8984,
@@ -1912,7 +1912,7 @@
             "open_issues": 35,
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3694,
+            "stars": 3693,
             "topics": [
               "crystal",
               "crystal-lang",
@@ -1994,7 +1994,7 @@
         {
           "node_type": "item",
           "title": "hcloud-cloud-controller-manager — Kubernetes cloud-controller-manager for Hetzner Cloud",
-          "description": null,
+          "description": "hetznercloud/hcloud-cloud-controller-manager",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2003,8 +2003,8 @@
             "id": 118783793,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T07:26:10Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-02T17:43:31Z",
+            "open_issues": 36,
             "owner": "hetznercloud",
             "repo": "hcloud-cloud-controller-manager",
             "stars": 931,
@@ -2020,7 +2020,7 @@
         {
           "node_type": "item",
           "title": "hcloud-csi — Container Storage Interface driver for Hetzner Cloud",
-          "description": null,
+          "description": "hetznercloud/csi-driver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2087,7 +2087,7 @@
             "open_issues": 10,
             "owner": "hcloud-k8s",
             "repo": "terraform-hcloud-kubernetes",
-            "stars": 710,
+            "stars": 711,
             "topics": [
               "cloud",
               "hcloud",
@@ -2215,7 +2215,7 @@
         {
           "node_type": "item",
           "title": "cert-manager Webhook Hetzner — This webhook provides integration between cert-manager and the Hetzner DNS API to handle DNS-01 challenges.",
-          "description": null,
+          "description": "hetzner/cert-manager-webhook-hetzner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2224,8 +2224,8 @@
             "id": 1067193644,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T10:24:48Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-02T16:40:43Z",
+            "open_issues": 8,
             "owner": "hetzner",
             "repo": "cert-manager-webhook-hetzner",
             "stars": 74,
@@ -2351,7 +2351,7 @@
         {
           "node_type": "item",
           "title": "External DNS Hetzner Webhook — This webhook provides integration between External DNS and the Hetzner DNS API to manage records automatically.",
-          "description": null,
+          "description": "hetzner/external-dns-hetzner-webhook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2360,8 +2360,8 @@
             "id": 1067194329,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T08:42:12Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-02T16:38:21Z",
+            "open_issues": 10,
             "owner": "hetzner",
             "repo": "external-dns-hetzner-webhook",
             "stars": 27,
@@ -2391,7 +2391,7 @@
             "open_issues": 27,
             "owner": "stubbi",
             "repo": "karpenter-provider-hetzner",
-            "stars": 20,
+            "stars": 21,
             "topics": [
               "autoscaling",
               "cloud-provider",
@@ -2577,7 +2577,7 @@
         {
           "node_type": "item",
           "title": "Prometheus Service Discovery — A service discovery build into Prometheus to easily discover Hetzner servers (Cloud & Dedicated)",
-          "description": null,
+          "description": "prometheus/prometheus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2587,10 +2587,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T14:46:17Z",
-            "open_issues": 936,
+            "open_issues": 937,
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 66335,
+            "stars": 66344,
             "topics": [
               "alerting",
               "graphing",
@@ -2836,7 +2836,7 @@
         {
           "node_type": "item",
           "title": "setup-hcloud — GitHub action to install the Hetzner Cloud CLI.",
-          "description": null,
+          "description": "hetznercloud/setup-hcloud",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2983,8 +2983,8 @@
             "id": 661276382,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T10:47:02Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-02T19:07:03Z",
+            "open_issues": 17,
             "owner": "vitodeploy",
             "repo": "vito",
             "stars": 3249,
@@ -3201,7 +3201,7 @@
         {
           "node_type": "item",
           "title": "Hetzner Cloud Packer Builder — An official Packer.io Builder for Hetzner Cloud",
-          "description": null,
+          "description": "hetznercloud/packer-plugin-hcloud",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3210,7 +3210,7 @@
             "id": 358037005,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-29T14:14:13Z",
+            "last_commit": "2026-10-02T16:38:47Z",
             "open_issues": 6,
             "owner": "hetznercloud",
             "repo": "packer-plugin-hcloud",
@@ -3556,7 +3556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:20:54.887Z",
+    "last_updated": "2026-10-03T04:49:20.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, tools, and integrations for Hetzner Cloud",
@@ -3568,7 +3568,7 @@
       "open_issues": 10,
       "owner": "hetznercloud",
       "repo": "awesome-hcloud",
-      "stars": 1357,
+      "stars": 1358,
       "topics": [
         "awesome",
         "awesome-list",
