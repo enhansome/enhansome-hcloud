@@ -78,12 +78,12 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ### Rust
 
-* [hcloud-rust](https://github.com/henningholmde/hcloud-rust/) ⭐ 96 | 🐛 5 | 🌐 Rust | 📅 2026-08-25 — Unofficial Rust crate for accessing the Hetzner Cloud API
+* [hcloud-rust](https://github.com/henningholmde/hcloud-rust/) ⭐ 97 | 🐛 5 | 🌐 Rust | 📅 2026-08-25 — Unofficial Rust crate for accessing the Hetzner Cloud API
 
 ## Official
 
-* **[Prometheus Service Discovery](https://community.hetzner.com/tutorials/prometheus-discovery) — A service discovery build into [Prometheus](https://github.com/prometheus/prometheus) ⭐ 66,461 | 🐛 985 | 🌐 Go | 📅 2026-10-10 to easily discover Hetzner servers (Cloud & Dedicated)**
-* **[Kubernetes Cluster Autoscaler](https://github.com/kubernetes/autoscaler) ⭐ 8,989 | 🐛 328 | 🌐 Go | 📅 2026-10-09 — A k8s component that automatically adjusts the size of a Kubernetes Cluster so that all pods have a place to run and there are no unneeded nodes.**
+* **[Prometheus Service Discovery](https://community.hetzner.com/tutorials/prometheus-discovery) — A service discovery build into [Prometheus](https://github.com/prometheus/prometheus) ⭐ 66,471 | 🐛 996 | 🌐 Go | 📅 2026-10-11 to easily discover Hetzner servers (Cloud & Dedicated)**
+* **[Kubernetes Cluster Autoscaler](https://github.com/kubernetes/autoscaler) ⭐ 8,990 | 🐛 328 | 🌐 Go | 📅 2026-10-09 — A k8s component that automatically adjusts the size of a Kubernetes Cluster so that all pods have a place to run and there are no unneeded nodes.**
 * **[hcloud cli](https://github.com/hetznercloud/cli) ⭐ 1,837 | 🐛 25 | 🌐 Go | 📅 2026-10-07 — hcloud is a command-line interface for interacting with Hetzner Cloud.**
 * **[hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) ⭐ 931 | 🐛 35 | 🌐 Go | 📅 2026-10-09 — Kubernetes cloud-controller-manager for Hetzner Cloud**
 * **[hcloud-csi](https://github.com/hetznercloud/csi-driver) ⭐ 798 | 🐛 24 | 🌐 Go | 📅 2026-10-09 — Container Storage Interface driver for Hetzner Cloud**
@@ -98,7 +98,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ## CLI
 
-* [kOps](https://github.com/kubernetes/kops) ⭐ 16,684 | 🐛 133 | 🌐 Go | 📅 2026-10-10 — Kubernetes Operations (kOps) automates Kubernetes cluster installation, upgrades and management
+* [kOps](https://github.com/kubernetes/kops) ⭐ 16,684 | 🐛 132 | 🌐 Go | 📅 2026-10-11 — Kubernetes Operations (kOps) automates Kubernetes cluster installation, upgrades and management
 * [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) ⭐ 3,702 | 🐛 35 | 🌐 Crystal | 📅 2026-08-25 — A CLI tool written in Crystal to quickly create and manage Kubernetes clusters in Hetzner Cloud
 * **[hcloud cli](https://github.com/hetznercloud/cli) ⭐ 1,837 | 🐛 25 | 🌐 Go | 📅 2026-10-07 — hcloud is a command-line interface for interacting with Hetzner Cloud.**
 * [hetzner-kube](https://github.com/xetys/hetzner-kube) ⭐ 753 | 🐛 90 | 🌐 Go | 📅 2023-02-25 — This project contains a CLI tool to easily provision kubernetes clusters on Hetzner Cloud.
@@ -126,11 +126,11 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) ⭐ 3,937 | 🐛 14 | 🌐 HCL | 📅 2026-10-09 — A highly optimized and auto-upgradable, HA-default & Load-Balanced, Kubernetes cluster powered by k3s-on-MicroOS and deployed for peanuts on Hetzner Cloud 🤑 🚀
 * **[Terraform Provider](https://github.com/hetznercloud/terraform-provider-hcloud) ⭐ 741 | 🐛 57 | 🌐 Go | 📅 2026-10-06 — Official Hetzner Cloud Terraform Provider**
 * [hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) ⭐ 713 | 🐛 8 | 🌐 HCL | 📅 2026-10-10 — Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud.
-* [terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) ⭐ 360 | 🐛 17 | 🌐 HCL | 📅 2026-10-10 — Terraform module for creating a Kubernetes cluster with [Talos](https://www.talos.dev/) in the Hetzner Cloud.
+* [terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) ⭐ 360 | 🐛 16 | 🌐 HCL | 📅 2026-10-11 — Terraform module for creating a Kubernetes cluster with [Talos](https://www.talos.dev/) in the Hetzner Cloud.
 * [terraform-hcloud-k3s](https://github.com/identiops/terraform-hcloud-k3s) ⭐ 158 | 🐛 5 | 🌐 HCL | 📅 2026-10-08 — Comprehensive module for provisioning a k3s Kubernetes cluster on Hetzner Cloud.
 * [Rancher on Hetzner Cloud](https://github.com/alexzimmer96/rancher-hcloud) ⚠️ Archived — Prebuild Terraform templates for deploying a highly available RKE cluster on Hetzner Cloud and installing Rancher into it — ⚠️ Deprecated
 * [terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ⚠️ Archived — A Terraform provider that helps you automate management of DNS zones and records at Hetzner DNS. — ⚠️ Deprecated
-* [Coder Template](https://github.com/ntimo/coder-hetzner-cloud-template) ⭐ 29 | 🐛 3 | 🌐 HCL | 📅 2024-04-27 — A Terraform template for [Coder](https://github.com/coder/coder) ⭐ 16,929 | 🐛 1,179 | 🌐 Go | 📅 2026-10-10 to setup a cloud instance as dev environment with or without VS Code.
+* [Coder Template](https://github.com/ntimo/coder-hetzner-cloud-template) ⭐ 29 | 🐛 3 | 🌐 HCL | 📅 2024-04-27 — A Terraform template for [Coder](https://github.com/coder/coder) ⭐ 16,957 | 🐛 1,160 | 🌐 Go | 📅 2026-10-11 to setup a cloud instance as dev environment with or without VS Code.
 * [terraform-hks](https://github.com/stupremee/terraform-hcloud-hks) ⭐ 11 | 🐛 0 | 🌐 HCL | 📅 2023-02-21 — An opinionated Terraform module for deploying a Hetzner Kubernetes Cluster using RKE2 and Hetzner Cloud.
 * [terraform-kubernetes-hcloud-controller-manager](https://github.com/colinwilson/terraform-kubernetes-hcloud-controller-manager) ⭐ 6 | 🐛 0 | 🌐 HCL | 📅 2021-06-09 — A simple module to provision the Hetzner Cloud Controller Manager (With Network & Load Balancer Support) inside a Kubernetes cluster running on Hetzner Cloud. See the variables file for the available configuration options. Please note that this module requires Kubernetes 1.16 or newer.
 * [terraform-hcloud-routeros-router](https://github.com/selfscrum/terraform-hcloud-routeros-router) ⭐ 1 | 🐛 0 | 🌐 HCL | 📅 2020-11-16 — Terraform code to seamlessly integrate a RouterOS router into a Hetzner Cloud network.
@@ -139,7 +139,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ## Ansible
 
-* [Algo VPN](https://github.com/trailofbits/algo) ⭐ 30,412 | 🐛 81 | 🌐 Python | 📅 2026-10-08 — Algo VPN is a set of Ansible scripts that simplify the setup of a personal Wireguard and IPSEC VPN.
+* [Algo VPN](https://github.com/trailofbits/algo) ⭐ 30,413 | 🐛 81 | 🌐 Python | 📅 2026-10-08 — Algo VPN is a set of Ansible scripts that simplify the setup of a personal Wireguard and IPSEC VPN.
 * **[Hetzner Cloud Ansible Collection](https://github.com/ansible-collections/hetzner.hcloud) ⭐ 153 | 🐛 17 | 🌐 Python | 📅 2026-10-10 — Ansible Collection for Hetzner Cloud. Part of Ansible Community Distribution (ACD).**
 * [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2020-03-05 — An dynamic inventory script for hetzner cloud
 * [hetzner-bare-metal-ansible](https://github.com/palark/hetzner-bare-metal-ansible) ⭐ 57 | 🐛 0 | 🌐 Jinja | 📅 2025-04-08 — Ansible playbook for deploying Linux bare-metal servers in Hetzner using Hetzner Robot API.
@@ -149,18 +149,18 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ## Kubernetes
 
-* [kOps](https://github.com/kubernetes/kops) ⭐ 16,684 | 🐛 133 | 🌐 Go | 📅 2026-10-10 — Kubernetes Operations (kOps) automates Kubernetes cluster installation, upgrades and management
-* **[Kubernetes Cluster Autoscaler](https://github.com/kubernetes/autoscaler) ⭐ 8,989 | 🐛 328 | 🌐 Go | 📅 2026-10-09 — A k8s component that automatically adjusts the size of a Kubernetes Cluster so that all pods have a place to run and there are no unneeded nodes.**
+* [kOps](https://github.com/kubernetes/kops) ⭐ 16,684 | 🐛 132 | 🌐 Go | 📅 2026-10-11 — Kubernetes Operations (kOps) automates Kubernetes cluster installation, upgrades and management
+* **[Kubernetes Cluster Autoscaler](https://github.com/kubernetes/autoscaler) ⭐ 8,990 | 🐛 328 | 🌐 Go | 📅 2026-10-09 — A k8s component that automatically adjusts the size of a Kubernetes Cluster so that all pods have a place to run and there are no unneeded nodes.**
 * [hobby-kube](https://github.com/hobby-kube/guide) ⭐ 5,659 | 🐛 9 | 📅 2023-09-21 — Fully automated cluster setup using Terraform, good balance between resilience and cost, and therefore a great starting point for hobbyists or to build a professional setup with a reasonable foundation.
 * [terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) ⭐ 3,937 | 🐛 14 | 🌐 HCL | 📅 2026-10-09 — A highly optimized and auto-upgradable, HA-default & Load-Balanced, Kubernetes cluster powered by k3s-on-MicroOS and deployed for peanuts on Hetzner Cloud 🤑 🚀
 * [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) ⭐ 3,702 | 🐛 35 | 🌐 Crystal | 📅 2026-08-25 — A CLI tool written in Crystal to quickly create and manage Kubernetes clusters in Hetzner Cloud
-* [KubeOne](https://github.com/kubermatic/kubeone) ⭐ 1,526 | 🐛 100 | 🌐 Go | 📅 2026-10-09 — Kubermatic KubeOne automates cluster operations on hetzner cloud. KubeOne can install high-available (HA) master clusters as well single master clusters.
-* [cluster-api-provider-hetzner](https://github.com/syself/cluster-api-provider-hetzner) ⭐ 1,135 | 🐛 193 | 🌐 Go | 📅 2026-10-10 — Kubernetes Cluster API Provider for consistent deployment and day 2 operations of "self-managed" HA Kubernetes clusters on Hetzner.
+* [KubeOne](https://github.com/kubermatic/kubeone) ⭐ 1,526 | 🐛 99 | 🌐 Go | 📅 2026-10-09 — Kubermatic KubeOne automates cluster operations on hetzner cloud. KubeOne can install high-available (HA) master clusters as well single master clusters.
+* [cluster-api-provider-hetzner](https://github.com/syself/cluster-api-provider-hetzner) ⭐ 1,135 | 🐛 193 | 🌐 Go | 📅 2026-10-11 — Kubernetes Cluster API Provider for consistent deployment and day 2 operations of "self-managed" HA Kubernetes clusters on Hetzner.
 * **[hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) ⭐ 931 | 🐛 35 | 🌐 Go | 📅 2026-10-09 — Kubernetes cloud-controller-manager for Hetzner Cloud**
 * **[hcloud-csi](https://github.com/hetznercloud/csi-driver) ⭐ 798 | 🐛 24 | 🌐 Go | 📅 2026-10-09 — Container Storage Interface driver for Hetzner Cloud**
 * [hetzner-kube](https://github.com/xetys/hetzner-kube) ⭐ 753 | 🐛 90 | 🌐 Go | 📅 2023-02-25 — This project contains a CLI tool to easily provision kubernetes clusters on Hetzner Cloud.
 * [hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) ⭐ 713 | 🐛 8 | 🌐 HCL | 📅 2026-10-10 — Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud.
-* [terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) ⭐ 360 | 🐛 17 | 🌐 HCL | 📅 2026-10-10 — Terraform module for creating a Kubernetes cluster with [Talos](https://www.talos.dev/) in the Hetzner Cloud.
+* [terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) ⭐ 360 | 🐛 16 | 🌐 HCL | 📅 2026-10-11 — Terraform module for creating a Kubernetes cluster with [Talos](https://www.talos.dev/) in the Hetzner Cloud.
 * [ui-driver-hetzner](https://github.com/mxschmitt/ui-driver-hetzner) ⚠️ Archived — Rancher UI driver for the Hetzner Cloud docker-machine-driver — ⚠️ Deprecated
 * [terraform-hcloud-k3s](https://github.com/identiops/terraform-hcloud-k3s) ⭐ 158 | 🐛 5 | 🌐 HCL | 📅 2026-10-08 — Comprehensive module for provisioning a k3s Kubernetes cluster on Hetzner Cloud.
 * [hcloud fip controller](https://github.com/cbeneke/hcloud-fip-controller) ⭐ 147 | 🐛 5 | 🌐 Go | 📅 2026-10-08 — Kubernetes controller to (re-)assign floating IPs to Hetzner Cloud instances.
@@ -187,7 +187,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ## Monitoring
 
-* **[Prometheus Service Discovery](https://community.hetzner.com/tutorials/prometheus-discovery) — A service discovery build into [Prometheus](https://github.com/prometheus/prometheus) ⭐ 66,461 | 🐛 985 | 🌐 Go | 📅 2026-10-10 to easily discover Hetzner servers (Cloud & Dedicated)**
+* **[Prometheus Service Discovery](https://community.hetzner.com/tutorials/prometheus-discovery) — A service discovery build into [Prometheus](https://github.com/prometheus/prometheus) ⭐ 66,471 | 🐛 996 | 🌐 Go | 📅 2026-10-11 to easily discover Hetzner servers (Cloud & Dedicated)**
 * [hcloud-pricing-exporter](https://github.com/jangraefen/hcloud-pricing-exporter) ⭐ 66 | 🐛 1 | 🌐 Go | 📅 2026-08-31 — A Prometheus exporter that connects to your HCloud account and collects data on your current expenses.
 * [prometheus-storagebox-exporter](https://github.com/crstian19/prometheus-storagebox-exporter) ⭐ 53 | 🐛 1 | 🌐 Go | 📅 2026-10-10 — Modern Prometheus exporter for Hetzner Storage Box with comprehensive metrics.
 * [Hetzner Load Balancer Prometheus Exporter](https://github.com/infraduckture/hetzner-load-balancer-prometheus-exporter) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2026-09-18 — Exports metrics from Hetzner Load Balancer for consumption by Prometheus
@@ -235,8 +235,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [chaotic](https://github.com/ngine-io/chaotic) ⭐ 74 | 🐛 7 | 🌐 Python | 📅 2026-10-09 — Fault injection your Hetzner Cloud servers to ensure, your services run even with one server stopped.
 * [hcloud-failover-keepalived](https://github.com/lehuizi/hcloud-failover-keepalived) ⭐ 62 | 🐛 0 | 🌐 Python | 📅 2020-11-17 — Script for switching Floating IPs in case of keepalived failover
 * **[Hetzner Cloud Packer Builder](https://github.com/hetznercloud/packer-plugin-hcloud) ⭐ 52 | 🐛 5 | 🌐 Go | 📅 2026-10-07 — An official Packer.io Builder for Hetzner Cloud**
-* [scalr](https://github.com/ngine-io/scalr) ⭐ 50 | 🐛 5 | 🌐 Python | 📅 2026-10-10 — Autoscaling for Clouds - Scale Cloud instances based on policy checks in a configurable interval. With Hetzner Cloud and Prometheus support.
-* [DevPod Provider](https://github.com/mrsimonemms/devpod-provider-hetzner) ⚠️ Archived — Run [DevPod](https://github.com/loft-sh/devpod) ⭐ 15,249 | 🐛 47 | 🌐 Go | 📅 2025-11-14 cloud development environments on Hetzner. — ⚠️ Deprecated
+* [scalr](https://github.com/ngine-io/scalr) ⭐ 50 | 🐛 8 | 🌐 Python | 📅 2026-10-11 — Autoscaling for Clouds - Scale Cloud instances based on policy checks in a configurable interval. With Hetzner Cloud and Prometheus support.
+* [DevPod Provider](https://github.com/mrsimonemms/devpod-provider-hetzner) ⚠️ Archived — Run [DevPod](https://github.com/loft-sh/devpod) ⭐ 15,253 | 🐛 47 | 🌐 Go | 📅 2025-11-14 cloud development environments on Hetzner. — ⚠️ Deprecated
 * [hcloud-tg](https://github.com/navid2zp/hcloud-tg) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2021-03-30 — Telegram bot for managing Hetzner cloud servers.
 * [hcloud-freebsd](https://github.com/paulc/hcloud-freebsd) ⭐ 33 | 🐛 1 | 🌐 Shell | 📅 2023-12-30 — Hetzner Cloud auto-provisioning for FreeBSD
 * [Paymenter Server Extension](https://github.com/ha1fdan/hetznercloudextension) ⚠️ Archived — Simplify Hetzner Cloud server orders with this Paymenter.org extension. — ⚠️ Deprecated
@@ -247,7 +247,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [Hetzner Cloud Connect](https://github.com/bluebamboostudios/hcloud-connect) ⭐ 6 | 🐛 1 | 🌐 Go | 📅 2021-05-14 — Handles automatically adding servers to load balancers
 * [iTop Datacollector for Hetzner Cloud](https://github.com/itomig-de/itomig-hetzner-collector) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2019-09-25 — This stand-alone application collects information from Hetzner projects in order to automatically synchronize the farms and virtual machines in iTop. iTop is a web based open source tool for IT service management tasks.
 * [Hetzner Cloudflare Telegram bot](https://github.com/Pixelate1/Hetzner_Cloudflare_Telegram_bot) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-01-29 — A secure Telegram bot to manage your Hetzner Cloud servers and automatically update Cloudflare DNS records.
-* [hetzner-images](https://github.com/mystack-cloud/hetzner-images) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2026-10-04 — Hetzner bootimages as multi-arch container images on GitHub Container Registry.
+* [hetzner-images](https://github.com/mystack-cloud/hetzner-images) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2026-10-11 — Hetzner bootimages as multi-arch container images on GitHub Container Registry.
 * [Pulumi Hcloud Provider](https://www.pulumi.com/registry/packages/hcloud/) — A Pulumi Provider for setting up your infrastructure on hcloud with Pulumi.
 
 ## License
@@ -256,4 +256,4 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
